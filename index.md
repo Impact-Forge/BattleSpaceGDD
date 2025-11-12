@@ -6,155 +6,155 @@
 
 ## 📋 Quick Links
 
-- [**Game Overview**]({{ site.baseurl }}/game-overview.md) - Core vision and concept
-- [**Lean GDD**]({{ site.baseurl }}/battlespace-lean-gdd.html) - 12-month roadmap
-- [**Marketing Strategy**]({{ site.baseurl }}/battlespace-marketing-strategy.html) - Go-to-market plan
+- [**Game Overview**]({{ site.baseurl }}/docs/game-overview) - Core vision and concept
+- [**Lean GDD**]({{ site.baseurl }}/docs/battlespace-lean-gdd) - 12-month roadmap
+- [**Marketing Strategy**]({{ site.baseurl }}/docs/battlespace-marketing-strategy) - Go-to-market plan
 
 ---
 
 ## 🎮 Core Game Design
 
 ### Gameplay Systems
-- [Gameplay & Mechanics]({{ site.baseurl }}/gameplay/gameplay-mechanics.html)
-- [Multi-Domain Operations (MDO)]({{ site.baseurl }}/gameplay/multi-domain-operations.html)
-- [Economy & Stats System]({{ site.baseurl }}/gameplay/economy-system.html)
-- [Medical System]({{ site.baseurl }}/gameplay/medical-system.html)
-- [Construction & Fortifications]({{ site.baseurl }}/gameplay/construction-function.html)
+- [Gameplay & Mechanics]({{ site.baseurl }}/docs/gameplay/gameplay-mechanics)
+- [Multi-Domain Operations (MDO)]({{ site.baseurl }}/docs/gameplay/multi-domain-operations)
+- [Economy & Stats System]({{ site.baseurl }}/docs/gameplay/economy-system)
+- [Medical System]({{ site.baseurl }}/docs/gameplay/medical-system)
+- [Construction & Fortifications]({{ site.baseurl }}/docs/gameplay/construction-function)
 
 ### Combat
-- [Land Warfare](docs/combat/land-warfare.html)
-- [Aerial Warfare](docs/combat/aerial-warfare.html)
-- [Maritime Warfare](docs/combat/maritime-warfare.html)
-- [Extraction Missions](docs/combat/extraction.html)
-- [Fortification Systems](docs/combat/fortification.html)
+- [Land Warfare]({{ site.baseurl }}/docs/combat/land-warfare)
+- [Aerial Warfare]({{ site.baseurl }}/docs/combat/aerial-warfare)
+- [Maritime Warfare]({{ site.baseurl }}/docs/combat/maritime-warfare)
+- [Extraction Missions]({{ site.baseurl }}/docs/combat/extraction)
+- [Fortification Systems]({{ site.baseurl }}/docs/combat/fortification)
 
 ---
 
 ## 👥 Roles & Classes
 
 ### Infantry Roles
-- [Squad Leader](docs/roles/squad-leader.html)
-- [Team Leader](docs/roles/team-leader.html)
-- [Rifleman](docs/roles/rifleman.html)
-- [Auto Rifleman](docs/roles/auto-rifleman.html)
-- [Grenadier](docs/roles/grenadier.html)
-- [Special Weapons Man](docs/roles/special-weapons-man.html)
-- [Designated Marksman/Sniper](docs/roles/designated-marksman.html)
-- [Combat Engineer](docs/roles/combat-engineer.html)
-- [Medic](docs/roles/medic.html)
-- [Radio Man](docs/roles/radio-man.html)
+- [Squad Leader]({{ site.baseurl }}/docs/roles/squad-leader)
+- [Team Leader]({{ site.baseurl }}/docs/roles/team-leader)
+- [Rifleman]({{ site.baseurl }}/docs/roles/rifleman)
+- [Auto Rifleman]({{ site.baseurl }}/docs/roles/auto-rifleman)
+- [Grenadier]({{ site.baseurl }}/docs/roles/grenadier)
+- [Special Weapons Man]({{ site.baseurl }}/docs/roles/special-weapons-man)
+- [Designated Marksman/Sniper]({{ site.baseurl }}/docs/roles/designated-marksman)
+- [Combat Engineer]({{ site.baseurl }}/docs/roles/combat-engineer)
+- [Medic]({{ site.baseurl }}/docs/roles/medic)
+- [Radio Man]({{ site.baseurl }}/docs/roles/radio-man)
 
 ### Specialized Roles
-- [Commander](docs/roles/commander.html)
-- [Pilot](docs/roles/pilot.html)
-- [Crew Man](docs/roles/crew-man.html)
-- [Advisor/PMC](docs/roles/advisor-pmc.html)
+- [Commander]({{ site.baseurl }}/docs/roles/commander)
+- [Pilot]({{ site.baseurl }}/docs/roles/pilot)
+- [Crew Man]({{ site.baseurl }}/docs/roles/crew-man)
+- [Advisor/PMC]({{ site.baseurl }}/docs/roles/advisor-pmc)
 
 ---
 
 ## 🚁 Vehicles & Equipment
 
 ### Air Assets
-- [Aircraft Overview](docs/vehicles/aircraft.html)
-- [Jet Aircraft](docs/vehicles/jet-aircraft.html)
-- [Rotary Aircraft (Helicopters)](docs/vehicles/rotary-aircraft.html)
+- [Aircraft Overview]({{ site.baseurl }}/docs/vehicles/aircraft)
+- [Jet Aircraft]({{ site.baseurl }}/docs/vehicles/jet-aircraft)
+- [Rotary Aircraft (Helicopters)]({{ site.baseurl }}/docs/vehicles/rotary-aircraft)
 
 ### Ground Assets
-- [Armor and Vehicles](docs/vehicles/armor-and-vehicles.html)
-- [Vehicles Overview](docs/vehicles/vehicles.html)
-- [Specialty Functioning Vehicles](docs/vehicles/specialty-vehicles.html)
+- [Armor and Vehicles]({{ site.baseurl }}/docs/vehicles/armor-and-vehicles)
+- [Vehicles Overview]({{ site.baseurl }}/docs/vehicles/vehicles)
+- [Specialty Functioning Vehicles]({{ site.baseurl }}/docs/vehicles/specialty-vehicles)
 
 ### Weapons & Systems
-- [Weapons Systems](docs/equipment/weapons-systems.html)
-- [Props and Equipment](docs/equipment/props-equipment.html)
+- [Weapons Systems]({{ site.baseurl }}/docs/equipment/weapons-systems)
+- [Props and Equipment]({{ site.baseurl }}/docs/equipment/props-equipment)
 
 ---
 
 ## 🗺️ Levels & Locations
 
 ### Theater Operations
-- [Ukraine Battlespace](docs/levels/ukraine/ukraine-battlespace.html)
-  - [Level 1: Odessa Oblast](docs/levels/ukraine/odessa-oblast.html)
-  - [Level 2: Crimean Oblast](docs/levels/ukraine/crimean-oblast.html)
-  - [Level 3: Kyiv Oblast](docs/levels/ukraine/kyiv-oblast.html)
-  - [Level 4: Donetsk Oblast](docs/levels/ukraine/donetsk-oblast.html)
-  - [Level 5: Kharkiv Oblast](docs/levels/ukraine/kharkiv-oblast.html)
+- [Ukraine Battlespace]({{ site.baseurl }}/docs/levels/ukraine/ukraine-battlespace)
+  - [Level 1: Odessa Oblast]({{ site.baseurl }}/docs/levels/ukraine/odessa-oblast)
+  - [Level 2: Crimean Oblast]({{ site.baseurl }}/docs/levels/ukraine/crimean-oblast)
+  - [Level 3: Kyiv Oblast]({{ site.baseurl }}/docs/levels/ukraine/kyiv-oblast)
+  - [Level 4: Donetsk Oblast]({{ site.baseurl }}/docs/levels/ukraine/donetsk-oblast)
+  - [Level 5: Kharkiv Oblast]({{ site.baseurl }}/docs/levels/ukraine/kharkiv-oblast)
 
 ### Other Theaters
 - **Barents Sea**
-  - [Overview](docs/levels/barents-sea/barents-sea.html)
-  - [Level 1: Svalbard, Norway](docs/levels/barents-sea/svalbard.html)
+  - [Overview]({{ site.baseurl }}/docs/levels/barents-sea/barents-sea)
+  - [Level 1: Svalbard, Norway]({{ site.baseurl }}/docs/levels/barents-sea/svalbard)
 - **South China Sea**
-  - [Overview](docs/levels/south-china-sea/south-china-sea.html)
-  - [Level 1: Taiwan](docs/levels/south-china-sea/taiwan.html)
+  - [Overview]({{ site.baseurl }}/docs/levels/south-china-sea/south-china-sea)
+  - [Level 1: Taiwan]({{ site.baseurl }}/docs/levels/south-china-sea/taiwan)
 - **Falkland Islands**
-  - [Level 1: Argentina](docs/levels/falklands/falklands.html)
+  - [Level 1: Argentina]({{ site.baseurl }}/docs/levels/falklands/falklands)
 - **Additional Regions**
-  - [Black Sea](docs/levels/black-sea.html)
-  - [North Sea](docs/levels/north-sea.html)
-  - [Indian Ocean](docs/levels/indian-ocean.html)
-  - [Alaska](docs/levels/alaska.html)
-  - [Poland](docs/levels/poland.html)
-  - [India - Kashmir](docs/levels/india-kashmir.html)
-  - [North Korea](docs/levels/north-korea.html)
+  - [Black Sea]({{ site.baseurl }}/docs/levels/black-sea)
+  - [North Sea]({{ site.baseurl }}/docs/levels/north-sea)
+  - [Indian Ocean]({{ site.baseurl }}/docs/levels/indian-ocean)
+  - [Alaska]({{ site.baseurl }}/docs/levels/alaska)
+  - [Poland]({{ site.baseurl }}/docs/levels/poland)
+  - [India - Kashmir]({{ site.baseurl }}/docs/levels/india-kashmir)
+  - [North Korea]({{ site.baseurl }}/docs/levels/north-korea)
 
 ---
 
 ## 🎨 Art & Technical
 
 ### Art Direction
-- [Art Overview](docs/art/art.html)
-- [Concept Art](docs/art/concept-art.html)
-- [Models and Textures](docs/art/models-textures.html)
+- [Art Overview]({{ site.baseurl }}/docs/art/art)
+- [Concept Art]({{ site.baseurl }}/docs/art/concept-art)
+- [Models and Textures]({{ site.baseurl }}/docs/art/models-textures)
 
 ### Audio
-- [Sound Overview](docs/audio/sound.html)
-- [Sound Effects](docs/audio/sound-effects.html)
-- [Music](docs/audio/music.html)
-- [Voice](docs/audio/voice.html)
+- [Sound Overview]({{ site.baseurl }}/docs/audio/sound)
+- [Sound Effects]({{ site.baseurl }}/docs/audio/sound-effects)
+- [Music]({{ site.baseurl }}/docs/audio/music)
+- [Voice]({{ site.baseurl }}/docs/audio/voice)
 
 ### UI/UX
-- [HUDs and UIs](docs/ui/huds-and-uis.html)
+- [HUDs and UIs]({{ site.baseurl }}/docs/ui/huds-and-uis)
 
 ### Technical Specifications
-- [Unreal Engine 5.1](docs/technical/unreal-engine.html)
-- [Licenses / Hardware](docs/technical/licenses-hardware.html)
+- [Unreal Engine 5.1]({{ site.baseurl }}/docs/technical/unreal-engine)
+- [Licenses / Hardware]({{ site.baseurl }}/docs/technical/licenses-hardware)
 
 ---
 
 ## 📖 Story & Characters
 
-- [Story Overview](docs/narrative/story.html)
-- [The Team House (Characters)](docs/narrative/characters.html)
-- [Factions](docs/narrative/factions.html)
+- [Story Overview]({{ site.baseurl }}/docs/narrative/story)
+- [The Team House (Characters)]({{ site.baseurl }}/docs/narrative/characters)
+- [Factions]({{ site.baseurl }}/docs/narrative/factions)
 
 ### Characters
-- [ArchRevenant](docs/characters/arch-revenant.html)
-- [Butcher-Ak](docs/characters/butcher-ak.html)
-- [Fourleaf](docs/characters/fourleaf.html)
-- [Akuma](docs/characters/akuma.html)
-- [Gemesil](docs/characters/gemesil.html)
-- [SMILOX](docs/characters/smilox.html)
-- [Wupy](docs/characters/wupy.html)
-- [Vill Chip](docs/characters/vill-chip.html)
-- [EmercomCamper](docs/characters/emercom-camper.html)
+- [ArchRevenant]({{ site.baseurl }}/docs/characters/arch-revenant)
+- [Butcher-Ak]({{ site.baseurl }}/docs/characters/butcher-ak)
+- [Fourleaf]({{ site.baseurl }}/docs/characters/fourleaf)
+- [Akuma]({{ site.baseurl }}/docs/characters/akuma)
+- [Gemesil]({{ site.baseurl }}/docs/characters/gemesil)
+- [SMILOX]({{ site.baseurl }}/docs/characters/smilox)
+- [Wupy]({{ site.baseurl }}/docs/characters/wupy)
+- [Vill Chip]({{ site.baseurl }}/docs/characters/vill-chip)
+- [EmercomCamper]({{ site.baseurl }}/docs/characters/emercom-camper)
 
 ---
 
 ## 🎯 Development
 
-- [Elevator Pitches (WIP)](docs/dev/elevator-pitches.html)
-- [Dev Staffing](docs/dev/dev-staffing.html)
-- [Ranks Structure](docs/dev/ranks-structure.html)
-- [Easter Eggs](docs/dev/easter-eggs.html)
-- [Inventory Asset Master List (WIP)](docs/dev/inventory-master-list.html)
+- [Elevator Pitches (WIP)]({{ site.baseurl }}/docs/dev/elevator-pitches)
+- [Dev Staffing]({{ site.baseurl }}/docs/dev/dev-staffing)
+- [Ranks Structure]({{ site.baseurl }}/docs/dev/ranks-structure)
+- [Easter Eggs]({{ site.baseurl }}/docs/dev/easter-eggs)
+- [Inventory Asset Master List (WIP)]({{ site.baseurl }}/docs/dev/inventory-master-list)
 
 ---
 
 ## 🏆 Warfare Levels
 
-- [Warfare Level: Alpha](docs/warfare/warfare-level-alpha.html)
-- [Warfare Level: Whiskey](docs/warfare/warfare-level-whiskey.html)
+- [Warfare Level: Alpha]({{ site.baseurl }}/docs/warfare/warfare-level-alpha)
+- [Warfare Level: Whiskey]({{ site.baseurl }}/docs/warfare/warfare-level-whiskey)
 
 ---
 
