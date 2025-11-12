@@ -133,7 +133,7 @@
 - [ArchRevenant]({{ site.baseurl }}/docs/characters/arch-revenant)
 - [Butcher-Ak]({{ site.baseurl }}/docs/characters/butcher-ak)
 - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
-- [Vill Chip]({{ site.baseurl }}/docs/characters/vill-chip)
+- [Vill_Chip]({{ site.baseurl }}/docs/characters/vill-chip)
 ---
 
 ## 🎯 Development

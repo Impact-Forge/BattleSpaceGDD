@@ -16,7 +16,7 @@ Understanding the battlespace is essential for military commanders to effectivel
 
 ---
 
-At Impact Studios we are developing a large-scale open world, multiplayer, strategic shooter game called BattleSpace. A first-person/ 3rd person simi-tactical military shooter that is economy based. Players will have to dominate the enemy on different terrain from 7.6 kilometers up to 450 square kilometer maps of current conflict areas.
+At Impact Forge we are developing a large-scale open world, multiplayer, strategic shooter game called BattleSpace. A first-person simi-tactical military shooter. Players will have to dominate the enemy on different terrain from 7.6 kilometers up to 450 square kilometer maps of current conflict areas.
 
 "Battlespace" is a multi-faceted military game that combines land, sea, and air combat. In order to emerge victorious in the game, a faction must incapacitate the adversary's capacity to generate military personnel and carry out combat operations. This objective is accomplished through the complete annihilation of all facilities responsible for production.
 

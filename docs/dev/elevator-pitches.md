@@ -43,7 +43,7 @@ Are you prepared to rise to the challenge and prove your prowess in land, sea, a
 
 # 15 Min
 
-Welcome to Impact Studios, where we are dedicated to creating immersive gaming experiences. Today, we present to you our groundbreaking project, "Battlespace" â€“ a large-scale open world, multiplayer, strategic shooter game that will revolutionize the military gaming genre.
+Welcome to Impact Forge, where we are dedicated to creating immersive gaming experiences. Today, we present to you our groundbreaking project, "Battlespace" â€“ a large-scale open world, multiplayer, strategic shooter game that will revolutionize the military gaming genre.
 
 "Battlespace" is not your average shooter game. It is a first-person/3rd person simi-tactical military shooter that incorporates an economy-based gameplay system. Players will have the opportunity to dominate their enemies across a variety of terrains, from vast maps spanning 7.6 kilometers to expansive 450 square kilometer battlefields based on current conflict areas.
 
@@ -87,7 +87,7 @@ Title: "BattleSpace: Multi-Domain Operation (MDO-Warfare)"
 
 ## Introduction:
 
-&#x20;Ladies and gentlemen, welcome to Impact Studios, where we are developing a groundbreaking game called "BattleSpace." Today, I am here to present a 30-minute elevator pitch for funding this ambitious project. "BattleSpace" is a large-scale open-world, multiplayer, strategic shooter game that combines land, sea, and air combat. It offers an immersive and action-packed experience, allowing players to engage in simi-tactical military operations across vast terrains. With its economy-based gameplay and emphasis on teamwork and strategy, "BattleSpace" promises to revolutionize the military shooter genre. Let's dive into the details.
+&#x20;Ladies and gentlemen, welcome to Impact Forge, where we are developing a groundbreaking game called "BattleSpace." Today, I am here to present a 30-minute elevator pitch for funding this ambitious project. "BattleSpace" is a large-scale open-world, multiplayer, strategic shooter game that combines land, sea, and air combat. It offers an immersive and action-packed experience, allowing players to engage in simi-tactical military operations across vast terrains. With its economy-based gameplay and emphasis on teamwork and strategy, "BattleSpace" promises to revolutionize the military shooter genre. Let's dive into the details.
 
 ## Game Overview:
 
@@ -289,7 +289,7 @@ Understanding the battlespace is essential for military commanders to effectivel
 
 ---
 
-At Impact Studios we are developing a large-scale open world, multiplayer, strategic shooter game called "BattleSpace". A first-person/ 3rd person simi-tactical military shooter that is economy based. Players will have to dominate the enemy on different terrain from 7.6 kilometers up to 450 square kilometer maps of current conflict areas.
+At Impact Forge we are developing a large-scale open world, multiplayer, strategic shooter game called "BattleSpace". A first-person/ 3rd person simi-tactical military shooter that is economy based. Players will have to dominate the enemy on different terrain from 7.6 kilometers up to 450 square kilometer maps of current conflict areas.
 
 "Battlespace" is a multi-faceted military game that combines land, sea, and air combat. In order to emerge victorious in the game, a faction must incapacitate the adversary's capacity to generate military personnel and carry out combat operations. This objective is accomplished through the complete annihilation of all facilities responsible for production.
 
