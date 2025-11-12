@@ -1,0 +1,3 @@
+- [Multi-Domain Operation (MDO-Warfare)](<Multi-Domain Operation (MDO-Warfare) 6458246f.md?n>)
+- [Fortification (FO)](<Fortification (FO) 28e0e8bb.md?n>)
+- [Extraction (EX)](<Extraction (EX) 287658be.md?n>)

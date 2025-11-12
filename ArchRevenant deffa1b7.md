@@ -1,0 +1,1 @@
+Aaron Epstein, Field-Recordist/Sound Designer; building the largest weapons library to-date; shot and recorded hundreds of weapons. Being a perfectionist at every goal I set drives me to put out my best work for everything I do.
