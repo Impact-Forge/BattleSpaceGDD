@@ -1,8 +1,8 @@
 title: BATTLESPACE - Game Design Document
 description: A large-scale tactical FPS with persistent grid-based warfare
 theme: jekyll-theme-cayman
-baseurl: ""
-url: ""
+baseurl: "/BattleSpaceGDD"
+url: "https://impact-forge.github.io"
 
 # IMPORTANT: Update with your GitHub username/repo
 # Format: username/repository-name
