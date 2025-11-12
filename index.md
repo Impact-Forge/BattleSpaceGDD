@@ -15,8 +15,7 @@
 ## 🎮 Core Game Design
 
 ### Gameplay Systems
-- [Gameplay & Mechanics]({{ site.baseurl }}/docs/gameplay/gameplay-mechanics)
-- [Multi-Domain Operations (MDO)]({{ site.baseurl }}/docs/gameplay/multi-domain-operations)
+- [Mechanics]({{ site.baseurl }}/docs/gameplay/mechanics)
 - [Economy System]({{ site.baseurl }}/docs/gameplay/economy-system)
 - [Medical System]({{ site.baseurl }}/docs/gameplay/medical-system)
 - [Construction & Fortifications]({{ site.baseurl }}/docs/gameplay/construction-function)
