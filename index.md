@@ -17,9 +17,10 @@
 ### Gameplay Systems
 - [Gameplay & Mechanics]({{ site.baseurl }}/docs/gameplay/gameplay-mechanics)
 - [Multi-Domain Operations (MDO)]({{ site.baseurl }}/docs/gameplay/multi-domain-operations)
-- [Economy & Stats System]({{ site.baseurl }}/docs/gameplay/economy-system)
+- [Economy System]({{ site.baseurl }}/docs/gameplay/economy-system)
 - [Medical System]({{ site.baseurl }}/docs/gameplay/medical-system)
 - [Construction & Fortifications]({{ site.baseurl }}/docs/gameplay/construction-function)
+- [Player Stats System]({{ site.baseurl }}/docs/gameplay/player-stats-tracking.md)
 
 ### Combat
 - [Land Warfare]({{ site.baseurl }}/docs/combat/land-warfare)
