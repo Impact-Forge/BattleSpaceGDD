@@ -133,6 +133,7 @@
 - [Butcher-Ak]({{ site.baseurl }}/docs/characters/butcher-ak)
 - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
 - [Vill_Chip]({{ site.baseurl }}/docs/characters/vill-chip)
+
 ---
 
 ## 🎯 Development
@@ -159,14 +160,6 @@
 **Engine:** Unreal Engine 5.6.1  
 **Target Platform:** PC (Steam)  
 **Genre:** Large-scale Tactical FPS
-
----
-
-## 🔗 External Resources
-
-- [GitHub Repository](#)
-- [Development Blog](#)
-- [Discord Community](#)
 
 ---
 
