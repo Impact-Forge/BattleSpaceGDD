@@ -1,4 +1,4 @@
-![Battlespace\_Title\_Page- 003.png](<{{ site.baseurl }}/files/df3c55d8-a2e3-48b5-be4b-9ad6428354f3/Battlespace_Title_Page- 003.png>)
+![Battlespace\_Title\_Page- 003.png](<{{ site.baseurl }}/files/Battlespace_Title_Page- 003>)
 
 # BattleSpace Series
 
@@ -52,7 +52,7 @@ Phase #2:  Aerial Warfare modularly system, will be PvP air to air combat game w
 
 <br>
 
-![210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg]({{ site.baseurl }}/files/9007e378-8b84-4646-b047-384d78908eac/210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg)
+![210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg]({{ site.baseurl }}/files/210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg)
 
 Phase #3: Will be combining all three systems Aerial, Land and Maritime systems together into Multi-Domain Operation (MOD- Warfare) platform game.&#x20;
 
@@ -76,7 +76,7 @@ Phase #3: Will be combining all three systems Aerial, Land and Maritime systems 
 
 ### The Basic Fundamentals "MDO\_Warfare":
 
-At the start of the game players will be able to set up their own unit squad size team of 13 Max players within one unit.  All unit members will be able to respawn after death or remain incapacitated until a team medic has revived the player. Players have to select 1 of the 14  roles from [The Team House ](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/The-Team-House-Characters-9b1d21b2-72f8-4b22-b9e2-1c2b83285eaf "Nuclino")Characters . [Commanders](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Zulu-Commander-7c5715a7-6819-4634-abf2-3e305730302f "Nuclino") will be able to purchase equipment and vehicles for his teams, build constructable infrastructure that will need to be built and upgraded in order to unlock advance weapons and assets (ie.. armor, vehicles and aircraft) that the team can use to take more territory. &#x20;
+At the start of the game players will be able to set up their own unit squad size team of 13 Max players within one unit.  All unit members will be able to respawn after death or remain incapacitated until a team medic has revived the player. Players have to select 1 of the 14  roles from The Team House will be able to purchase equipment and vehicles for his teams, build constructable infrastructure that will need to be built and upgraded in order to unlock advance weapons and assets (ie.. armor, vehicles and aircraft) that the team can use to take more territory. &#x20;
 
 At the outset of a mission, a commander's primary duty is to secure a suitable location for the base. While this may be predetermined, it is often random. A strong location must be defensible and possess a flat terrain that allows for the construction of buildings. It is unwise to build structures on uneven ground, as it can impair the movement of troops and equipment.&#x20;
 
@@ -100,7 +100,7 @@ Players can build defenses in towns, subject to certain conditions. Only one com
 
 ## Warfare Modular System:
 
-![1628262348.jpeg](files/86581405-c9ad-492e-9092-c2b12aa2819a/1628262348.jpeg)
+![1628262348.jpeg]({{ site.baseurl }}/files/1628262348.jpeg)
 
 ## Aerial Warfare
 
@@ -108,7 +108,7 @@ Players can build defenses in towns, subject to certain conditions. Only one com
 
 <br>
 
-![1120\_Tirpak\_001\_F15EX.jpg](files/461a7fd8-d6f7-43e3-a6e7-e4e8deca87cf/1120_Tirpak_001_F15EX.jpg)
+![1120\_Tirpak\_001\_F15EX.jpg]({{ site.baseurl }}/files/1120_Tirpak_001_F15EX.jpg)
 
 <br>
 
@@ -118,7 +118,7 @@ Players can build defenses in towns, subject to certain conditions. Only one com
 
 <br>
 
-![image.jpeg](files/974e0aad-4322-4aeb-9285-98c4a0d7b866/image.jpeg)
+![image.jpeg]({{ site.baseurl }}/files/image.jpeg)
 
 <br>
 
@@ -126,7 +126,7 @@ Players can build defenses in towns, subject to certain conditions. Only one com
 
 *Maritime Warfare*: is combat in and on the sea, the ocean, or any other battlespace involving a major body of water such as an oceans, large lakes or wide rivers.
 
-![ship-communications-1024x576.jpg](files/15e3f0df-e6ed-4c78-a4fa-e8ba812479d6/ship-communications-1024x576.jpg)
+![ship-communications-1024x576.jpg]({{ site.baseurl }}/files/ship-communications-1024x576.jpg)
 
 <br>
 
