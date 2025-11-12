@@ -6,20 +6,20 @@
 
 ## 📋 Quick Links
 
-- [**Game Overview**]({{ site.baseurl }}/docs//game-overview.html) - Core vision and concept
-- [**Lean GDD**](docs/battlespace-lean-gdd.html) - 12-month roadmap
-- [**Marketing Strategy**](docs/battlespace-marketing-strategy.html) - Go-to-market plan
+- [**Game Overview**]({{ site.baseurl }}/game-overview.md) - Core vision and concept
+- [**Lean GDD**]({{ site.baseurl }}/battlespace-lean-gdd.html) - 12-month roadmap
+- [**Marketing Strategy**]({{ site.baseurl }}/battlespace-marketing-strategy.html) - Go-to-market plan
 
 ---
 
 ## 🎮 Core Game Design
 
 ### Gameplay Systems
-- [Gameplay & Mechanics](docs/gameplay/gameplay-mechanics.html)
-- [Multi-Domain Operations (MDO)](docs/gameplay/multi-domain-operations.html)
-- [Economy & Stats System](docs/gameplay/economy-system.html)
-- [Medical System](docs/gameplay/medical-system.html)
-- [Construction & Fortifications](docs/gameplay/construction-function.html)
+- [Gameplay & Mechanics]({{ site.baseurl }}/gameplay/gameplay-mechanics.html)
+- [Multi-Domain Operations (MDO)]({{ site.baseurl }}/gameplay/multi-domain-operations.html)
+- [Economy & Stats System]({{ site.baseurl }}/gameplay/economy-system.html)
+- [Medical System]({{ site.baseurl }}/gameplay/medical-system.html)
+- [Construction & Fortifications]({{ site.baseurl }}/gameplay/construction-function.html)
 
 ### Combat
 - [Land Warfare](docs/combat/land-warfare.html)
