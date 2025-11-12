@@ -131,14 +131,8 @@
 ### Characters
 - [ArchRevenant]({{ site.baseurl }}/docs/characters/arch-revenant)
 - [Butcher-Ak]({{ site.baseurl }}/docs/characters/butcher-ak)
-- [Fourleaf]({{ site.baseurl }}/docs/characters/fourleaf)
-- [Akuma]({{ site.baseurl }}/docs/characters/akuma)
-- [Gemesil]({{ site.baseurl }}/docs/characters/gemesil)
-- [SMILOX]({{ site.baseurl }}/docs/characters/smilox)
 - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
 - [Vill Chip]({{ site.baseurl }}/docs/characters/vill-chip)
-- [EmercomCamper]({{ site.baseurl }}/docs/characters/emercom-camper)
-
 ---
 
 ## 🎯 Development
@@ -162,7 +156,7 @@
 
 **Version:** 2.0  
 **Last Updated:** November 2025  
-**Engine:** Unreal Engine 5.3  
+**Engine:** Unreal Engine 5.6.1  
 **Target Platform:** PC (Steam)  
 **Genre:** Large-scale Tactical FPS
 
