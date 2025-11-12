@@ -1,8 +1,11 @@
 ---
+title: Multi-Domain Operations
+layout: default
+---
 
 ![20IIS904\_RTX\_TE\_LP\_noeyebrow.jpg](files/a887ec2f-c48f-4bb0-8ee1-bb96a15267f4/20IIS904_RTX_TE_LP_noeyebrow.jpg)
 
-# PhysicsÂ 
+# Physics 
 
 ## Movement Mechanics
 

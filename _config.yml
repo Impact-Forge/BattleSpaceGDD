@@ -4,6 +4,10 @@ theme: jekyll-theme-cayman
 baseurl: ""
 url: ""
 
+# IMPORTANT: Update with your GitHub username/repo
+# Format: username/repository-name
+repository: Impact-Forge/BattleSpaceGDD
+
 # Build settings
 markdown: kramdown
 plugins:
