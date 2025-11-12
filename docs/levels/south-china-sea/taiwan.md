@@ -1,4 +1,4 @@
-![map-of-taiwan-max.jpg](files/335da370-04ef-4d17-be31-a9917d957b7b/map-of-taiwan-max.jpg)
+![map-of-taiwan-max.jpg]({{ site.baseurl }}/files/map-of-taiwan-max.jpg)
 
 <br>
 
@@ -21,7 +21,7 @@ You team will need to gain possession or control all key locations across the en
 
 # Location(s)
 
-![Taiwan-Administration-Map-678x930.png](files/dccde8cd-2b9e-4ba7-a90d-97b3ad6ddd49/Taiwan-Administration-Map-678x930.png)
+![Taiwan-Administration-Map-678x930.png]({{ site.baseurl }}/files/dccde8cd-2b9e-4ba7-a90d-97b3ad6ddd49/Taiwan-Administration-Map-678x930.png)
 
 <br>
 

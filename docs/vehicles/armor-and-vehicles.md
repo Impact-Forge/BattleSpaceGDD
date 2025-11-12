@@ -1,4 +1,4 @@
-![Electronic-Warfare-Header.gif](files/a0e97452-0413-4f6d-8032-687511cf8cca/Electronic-Warfare-Header.gif)
+![Electronic-Warfare-Header.gif]({{ site.baseurl }}/files/Electronic-Warfare-Header.gif)
 
 <br>
 

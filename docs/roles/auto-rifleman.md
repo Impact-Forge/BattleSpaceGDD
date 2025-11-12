@@ -1,4 +1,4 @@
-![T\_020.jpg](files/b603d626-a285-496a-87c5-1da6b883a558/T_020.jpg)
+![T\_020.jpg]({{ site.baseurl }}/files/T_020.jpg)
 
 # Character Description
 
@@ -7,7 +7,7 @@ The role of the ***Automatic Rifleman*** (AR) is to lay down a high volume of su
 
 # Appearance
 
-![file (2).jpg](<files/c9516aa6-e16a-4299-a981-e5698c0c095b/file (2).jpg>)
+![file (2).jpg](<{{ site.baseurl }}/files/file (2).jpg>)
 
 # Special Abilities
 

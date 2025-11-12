@@ -28,7 +28,7 @@ Analogous to the Material Editor, the system is fully programmable, bringing ben
 
 # Systems and Subsystems: Â 
 
-![systems-07-00046-g001.png](files/e872c184-1e0d-44b4-b99c-25fa207ad4be/systems-07-00046-g001.png)
+![systems-07-00046-g001.png]({{ site.baseurl }}/files/systems-07-00046-g001.png)
 
 <br>
 
@@ -75,7 +75,7 @@ Analogous to the Material Editor, the system is fully programmable, bringing ben
 
 1. v20 Clang
 
-![unreal-engine-5-early-access-4k-wallpaper-2\_24af.jpg](files/6afc6de4-81ea-4bd1-b360-a2f2b0a5bf7f/unreal-engine-5-early-access-4k-wallpaper-2_24af.jpg)
+![unreal-engine-5-early-access-4k-wallpaper-2\_24af.jpg]({{ site.baseurl }}/files/unreal-engine-5-early-access-4k-wallpaper-2_24af.jpg)
 
 <br>
 

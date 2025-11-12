@@ -1,4 +1,4 @@
-![Screenshot\_20230106-103406\_PowerPoint.jpg](files/aaffa04c-6b98-4435-9c3b-6218bc0cbe39/Screenshot_20230106-103406_PowerPoint.jpg)
+![Screenshot\_20230106-103406\_PowerPoint.jpg]({{ site.baseurl }}/files/Screenshot_20230106-103406_PowerPoint.jpg)
 
 ## Rifles:
 
@@ -115,7 +115,7 @@
 
 <br>
 
-![DDM2.jpg](files/4fad4cb1-a9b9-4e35-9587-a63f9bbf5eb1/DDM2.jpg)
+![DDM2.jpg]({{ site.baseurl }}/files/DDM2.jpg)
 
 ## Sniper Rifles:
 
@@ -202,13 +202,13 @@
 
 <br>
 
-![m\_weapon\_systems.jpg](files/2a6cadd8-64a0-4ef1-925c-bef8728f236e/m_weapon_systems.jpg)
+![m\_weapon\_systems.jpg]({{ site.baseurl }}/files/m_weapon_systems.jpg)
 
 # Attachments
 
 <br>
 
-![complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene.jpg](files/d2b3f381-d9ac-4ddd-b9ab-c6778eb703af/complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene.jpg)
+![complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene.jpg]({{ site.baseurl }}/files/complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene.jpg)
 
 X-Time Scopes:
 
@@ -229,7 +229,7 @@ Red Dots:
 5. &#x20;Leupold Carbine Optic Red Dot Sight
 6. &#x20;Leupold DeltaPoint Micro Red Dot Sight
 
-![complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene (2).jpg](<files/2f4973a5-662f-49c8-9cb3-3f754f556704/complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene (2).jpg>)
+![complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene (2).jpg](<{{ site.baseurl }}/files/complete-rifle-scope-and-red-dot-optic-bundle-3d-model-obj-fbx-blend-spp-tbscene (2).jpg>)
 
 &#x20;Holograms:
 
@@ -247,7 +247,7 @@ Magnifiers:
 3. &#x20;Aimpoint 3x Flip To Side Magnifier
 4. &#x20;Leupold D-EVO Dual Enhanced View Optic 6x Scope
 
-![1.jpg](files/4edb5759-47c8-4a6f-b4a5-282366182e34/1.jpg)
+![1.jpg]({{ site.baseurl }}/files/1.jpg)
 
 <br>
 
@@ -257,7 +257,7 @@ Magnifiers:
 
 # Grenades
 
-![download (4).jpeg](<files/d0a55ab4-0a96-4e4e-a3b4-0757f65ec3fc/download (4).jpeg>)
+![download (4).jpeg](<{{ site.baseurl }}/files/download (4).jpeg>)
 
 1. M67&#x20;
 2. M61
@@ -283,7 +283,7 @@ Magnifiers:
 
 <br>
 
-![1466627312-fgm148javelin.gif](files/48a9757f-aa2b-40e1-b21c-a6fc5c30600c/1466627312-fgm148javelin.gif)
+![1466627312-fgm148javelin.gif]({{ site.baseurl }}/files/1466627312-fgm148javelin.gif)
 
 ## Anti-Tank/Anti-Air
 
@@ -314,7 +314,7 @@ Magnifiers:
 
 <br>
 
-![9034c237-aad4-4920-a727-3d0ce741603e.png](files/14a0e64d-48bf-4c9d-b301-bc9d18983c62/9034c237-aad4-4920-a727-3d0ce741603e.png)
+![9034c237-aad4-4920-a727-3d0ce741603e.png]({{ site.baseurl }}/files/9034c237-aad4-4920-a727-3d0ce741603e.png)
 
 # Mortars and Artillery
 

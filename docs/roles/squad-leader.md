@@ -1,4 +1,4 @@
-![Multi-domain-operations-e1580288910152.jpg](files/59de15d2-0a6d-4f58-8fb9-09d7963bc9d1/Multi-domain-operations-e1580288910152.jpg)
+![Multi-domain-operations-e1580288910152.jpg]({{ site.baseurl }}/files/Multi-domain-operations-e1580288910152.jpg)
 
 # Character Description
 
@@ -6,7 +6,7 @@
 
 # Appearance
 
-![PMC 8.PNG](<files/be600315-97e0-41de-83f9-73702b4c4ca0/PMC 8.PNG>)
+![PMC 8.PNG]({{ site.baseurl }}/files/PMC 8.PNG)
 
 # Special Abilities
 

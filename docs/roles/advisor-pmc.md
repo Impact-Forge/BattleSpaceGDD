@@ -1,4 +1,4 @@
-![various-aim-aiming-army.jpg](files/20d1acce-e287-4270-91cb-a3a4c42c4247/various-aim-aiming-army.jpg)
+![various-aim-aiming-army.jpg]({{ site.baseurl }}/files/various-aim-aiming-army.jpg)
 
 # Character Description
 
@@ -6,7 +6,7 @@
 
 # Appearance
 
-![tumblr\_ppuigmkpsw1ssuxkp\_1280.gif](files/7e9c752b-ac78-4843-982a-68e991318a2a/tumblr_ppuigmkpsw1ssuxkp_1280.gif)
+![tumblr\_ppuigmkpsw1ssuxkp\_1280.gif]({{ site.baseurl }}/files/tumblr_ppuigmkpsw1ssuxkp_1280.gif)
 
 # Special Abilities
 

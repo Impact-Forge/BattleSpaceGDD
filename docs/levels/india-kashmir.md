@@ -1,4 +1,4 @@
-![india.jfif](files/84ffa3b2-049a-4004-8544-51fd4962133d/india.jfif)
+![india.jfif]({{ site.baseurl }}/files/india.jfif)
 
 The Kashmir conflict is a territorial conflict over the Kashmir region, primarily between India and Pakistan and also between China and India in northeastern portion of the region.&#x20;
 

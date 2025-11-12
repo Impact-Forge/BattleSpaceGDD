@@ -60,7 +60,7 @@ Overall, Fortification is a challenging and tactical game mode that requires pla
 
 # Dynamic Spawn Points & Objective Generator &#x20;
 
-![PlayerSpawns\_Liv.jpg](files/c3fb59f3-d0f4-4c41-a25b-c05200ecdbe4/PlayerSpawns_Liv.jpg)
+![PlayerSpawns\_Liv.jpg]({{ site.baseurl }}/files/PlayerSpawns_Liv.jpg)
 
 <br>
 
@@ -68,19 +68,19 @@ Overall, Fortification is a challenging and tactical game mode that requires pla
 
 <br>
 
-![images.jfif](files/6ff475ff-4942-4eab-a514-33f89f47bf45/images.jfif)
+![images.jfif]({{ site.baseurl }}/files/images.jfif)
 
 <br>
 
 # Mapping
 
-![4\_3.png](files/ead633a1-0bf7-40b2-b46f-0aa1ced0502e/4_3.png)
+![4\_3.png]({{ site.baseurl }}/files/4_3.png)
 
 <br>
 
 Transparent Topographical
 
-![austincontours-800x479.jpg](files/68e9ebea-10d2-4403-94dc-ea9ae0f872bd/austincontours-800x479.jpg)
+![austincontours-800x479.jpg]({{ site.baseurl }}/files/austincontours-800x479.jpg)
 
 <br>
 

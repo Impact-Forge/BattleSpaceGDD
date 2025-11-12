@@ -144,25 +144,25 @@ Real Time Stats (RTS) - (working name) will gather various data from in-game abo
 
 1. Multi-Domain Operation (MDO-Warfare) - Large-scale full-size maps with combined arms with an economy system.&#x20;
 2. Fortification (FO) - Large-scale, full-size maps with combined arms tactics.&#x20;
-3. &#x20;Capture & Hold (CH) - Medium size maps, random selected capture points with combined arms tactics.&#x20;
+3. Capture & Hold (CH) - Medium size maps, random selected capture points with combined arms tactics.&#x20;
 4. Extraction (EX) - Smaller maps, infantry and mechanized base tactics for E\&E. &#x20;
    <br>
 
 <br>
 
-&#x20;Learn more about the [Land Locations](<Land Locations cd059a3a.md?n>), [Story](<Story 478d0955.md?n>), and [The Team House "Characters"](<The Team House _Characters_ 9b1d21b2.md?n>) of the game.
+&#x20;Learn more about the [Land Locations]({{ site.baseurl }}/docs/levels/land-locations), [Story]({{ site.baseurl }}/docs/narrative/story), and [The Team House "Characters"]({{ site.baseurl }}/docs/narrative/characters) of the game.
 
 # Project scope
 
 ## Our team
 
-- Director - [Wupy](<Wupy 8289afb5.md?n>)
-- Project Manager - [Wupy](<Wupy 8289afb5.md?n>)
-- Quality Control - [Butcher-Ak ](<Butcher-Ak 4486256c.md?n>)
-- Programmers - [Wupy](<Wupy 8289afb5.md?n>)
+- Director - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
+- Project Manager - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
+- Quality Control - [Butcher-Ak ]({{ site.baseurl }}/docs/characters/butcher-ak)
+- Programmers - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
 - Community Manager-&#x20; 
-- Cinematics - [Fourleaf](<Fourleaf 625259db.md?n>)
-- Audio - [ArchRevenant]({{ site.baseurl }}/docs/)
+- Cinematics - [Fourleaf]({{ site.baseurl }}/docs/characters/fourleaf)
+- Audio - [ArchRevenant]({{ site.baseurl }}/docs/characters/arch-revenant)
 - Animation -&#x20;
 - 3D Artists -&#x20;
 - 2D Artist -&#x20;
@@ -175,7 +175,7 @@ Real Time Stats (RTS) - (working name) will gather various data from in-game abo
 
 | **Spend Type**     | **Planned**                         |
 | ------------------ | ----------------------------------- |
-| $9,500.00  To-Date | $4,000,000.00 - Startup Target Goal |
+| $57,527.27  To-Date | $4,000,000.00 - Startup Target Goal |
 |                    |                                     |
 
 ## Timeline

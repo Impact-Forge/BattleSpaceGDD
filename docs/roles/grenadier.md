@@ -1,4 +1,4 @@
-![origin.jpg](files/7d3116b2-7ffe-48b7-9aba-5385100fc4ee/origin.jpg)
+![origin.jpg]({{ site.baseurl }}/files/origin.jpg)
 
 # Character Description
 
@@ -6,7 +6,7 @@ Armed with a grenade launcher, a weapon that fires a specially-designed large-ca
 
 # Appearance
 
-![d437fb37-85c4-404a-bc8a-eacee0accf51.png](files/b3949280-1928-4434-897a-ce1f4351eea4/d437fb37-85c4-404a-bc8a-eacee0accf51.png)
+![d437fb37-85c4-404a-bc8a-eacee0accf51.png]({{ site.baseurl }}/files/d437fb37-85c4-404a-bc8a-eacee0accf51.png)
 
 # Special Abilities
 

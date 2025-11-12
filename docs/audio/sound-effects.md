@@ -125,7 +125,7 @@ Our competitive offerings make Audio Post Production at Aftertouch Audio a perfe
 
 <br>
 
-![DDM2.jpg](files/4fad4cb1-a9b9-4e35-9587-a63f9bbf5eb1/DDM2.jpg)
+![DDM2.jpg]({{ site.baseurl }}/files/DDM2.jpg)
 
 ## Sniper Rifles:
 

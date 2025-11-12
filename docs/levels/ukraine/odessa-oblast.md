@@ -1,4 +1,4 @@
-![550px-Odessa\_in\_Ukraine.svg.png](files/f6f33abd-0666-4bf7-b4c1-02e645636337/550px-Odessa_in_Ukraine.svg.png)
+![550px-Odessa\_in\_Ukraine.svg.png]({{ site.baseurl }}/files/550px-Odessa_in_Ukraine.svg.png)
 
 # Synopsis
 
@@ -6,7 +6,7 @@ You team will need to gain possession or control all key locations across the en
 
 <br>
 
-![700px-Content\_Одеська\_область.jpg](files/3435d4b0-74bc-4be2-ac28-00c944e0665c/700px-Content_Одеська_область.jpg)
+![700px-Content\_Одеська\_область.jpg]({{ site.baseurl }}/files/700px-Content_Одеська_область.jpg)
 
 <br>
 
@@ -14,19 +14,19 @@ Some of the Key locations are:
 
 1. Akkerman Fortress
 
-![2560px-Akkerman-fortress-aerial-2\_(cropped).jpg](files/fc27a17e-b246-4495-82ba-48c4b370d37e/2560px-Akkerman-fortress-aerial-2_\(cropped\).jpg)
+![2560px-Akkerman-fortress-aerial-2\_(cropped).jpg]({{ site.baseurl }}/files/2560px-Akkerman-fortress-aerial-2_\(cropped\).jpg)
 
 <br>
 
 2. Teplodar&#x20;
 
-![Teplodar1.jpg](files/a371e754-c844-4f59-96fe-eff58fa7edfc/Teplodar1.jpg)
+![Teplodar1.jpg]({{ site.baseurl }}/files/Teplodar1.jpg)
 
 <br>
 
 3. Ovidiopol
 
-![2560px-Церква\_Миколи\_Угодника.jpg](files/99ca1039-6706-45c4-8473-49ee461d44ed/2560px-Церква_Миколи_Угодника.jpg)
+![2560px-Церква\_Миколи\_Угодника.jpg]({{ site.baseurl }}/files/2560px-Церква_Миколи_Угодника.jpg)
 
 # Location(s)
 
@@ -46,6 +46,6 @@ You have just entered the country Ukraine from Romanian with the help of NATO wi
 
 &#x20;
 
-![375px-Reniyskyi-Raion.png](files/8dd149fe-b4e1-44cf-a75c-3fa596531d85/375px-Reniyskyi-Raion.png)
+![375px-Reniyskyi-Raion.png]({{ site.baseurl }}/files/375px-Reniyskyi-Raion.png)
 
 <br>

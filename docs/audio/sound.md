@@ -1,3 +1,3 @@
-- [Sound effects](<Sound effects ccde860d.md?n>)
-- [Music](<Music 5d07e887.md?n>)
-- [Voice](<Voice e0a65808.md?n>)
+- [Sound effects]({{ site.baseurl }}/docs/audio/sound-effects)
+- [Music]({{ site.baseurl }}/docs/audio/music)
+- [Voice]({{ site.baseurl }}/docs/audio/voice)

@@ -1,4 +1,4 @@
-![1466627312-fgm148javelin.gif](files/0a0ef3c7-7363-4c3b-a708-9bcc72917695/1466627312-fgm148javelin.gif)
+![1466627312-fgm148javelin.gif]({{ site.baseurl }}/files/1466627312-fgm148javelin.gif)
 
 # Character Description
 
@@ -6,7 +6,7 @@ Your responsibilities will be anti-tank missileman and anti-air which is Special
 
 # Appearance
 
-![anti.jpg](files/82d9e9fc-5452-47f0-9abe-45f8fb88b32e/anti.jpg)
+![anti.jpg]({{ site.baseurl }}/files/anti.jpg)
 
 # Special Abilities
 

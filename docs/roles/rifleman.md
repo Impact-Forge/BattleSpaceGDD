@@ -1,4 +1,4 @@
-![image7\_1024x1024.jpg](files/331001a9-5ae7-4274-901e-d75926d3593c/image7_1024x1024.jpg)
+![image71024x1024.jpg]({{ site.baseurl }}/files/image7_1024x1024.jpg)
 
 # Character Description
 
@@ -6,7 +6,7 @@ Is an infantry soldier armed with a rifled long gun and one skilled in shooting 
 
 # Appearance
 
-![Medic.jpg](files/853643d3-d452-428c-a266-1fea9835669f/Medic.jpg)
+![Medic.jpg]({{ site.baseurl }}/files/Medic.jpg)
 
 # Special Abilities
 

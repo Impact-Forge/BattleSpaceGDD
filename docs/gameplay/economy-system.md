@@ -1,4 +1,4 @@
-![its-an-all-out-currency-war-08062019.jpg](files/fc04e9ce-856c-48a6-8833-4f63e2cd66fe/its-an-all-out-currency-war-08062019.jpg)
+![its-an-all-out-currency-war-08062019.jpg]({{ site.baseurl }}/files/its-an-all-out-currency-war-08062019.jpg)
 
 #
 
@@ -10,7 +10,7 @@ The player is entitled to a share of the overall resource income generated, whic
 
 <br>
 
-![template\_\_1253-1.png](files/bdd52bc7-d7e8-44ec-8939-eebe195e9cb5/template__1253-1.png)
+![template\_\_1253-1.png]({{ site.baseurl }}/files/template__1253-1.png)
 
 <br>
 
@@ -40,8 +40,8 @@ Data Tracked:&#x20;
 
 # Stats UI/HUD Layouts Ideas
 
-![211413\_valovalo2.webp](files/aea06f61-41f0-4994-90ba-0003af724170/211413_valovalo2.webp)
+![211413\_valovalo2.webp]({{ site.baseurl }}/files/211413_valovalo2.webp)
 
-![141714\_ggvalorant.webp](files/cd4b1b6f-8dd8-4dc0-8a21-13cb84a54d90/141714_ggvalorant.webp)
+![141714\_ggvalorant.webp]({{ site.baseurl }}/files/141714_ggvalorant.webp)
 
 <br>

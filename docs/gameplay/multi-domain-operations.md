@@ -329,13 +329,13 @@ Medium Tactical Vehicle Replacement MTVR (Supplies):  The MTVR can carry a paylo
 
 # Mapping
 
-![4\_3.png](files/ead633a1-0bf7-40b2-b46f-0aa1ced0502e/4_3.png)
+![4\_3.png](files/4_3.png)
 
 <br>
 
 Transparent Topographical
 
-![austincontours-800x479.jpg](files/68e9ebea-10d2-4403-94dc-ea9ae0f872bd/austincontours-800x479.jpg)
+![austincontours-800x479.jpg](files/austincontours-800x479.jpg)
 
 <br>
 

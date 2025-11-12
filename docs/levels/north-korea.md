@@ -1,5 +1,5 @@
-![DPRKmap.webp](files/eb14c521-11d2-40a6-94c1-728d1a49484a/DPRKmap.webp)
-![provinces-of-north-korea-map.png](files/2241ff83-fcd1-4a87-8771-bd6c289ba036/provinces-of-north-korea-map.png)
+![DPRKmap.webp]({{ site.baseurl }}/files/DPRKmap.webp)
+![provinces-of-north-korea-map.png]({{ site.baseurl }}/files/provinces-of-north-korea-map.png)
 
 <br>
 

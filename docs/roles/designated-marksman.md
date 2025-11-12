@@ -1,4 +1,4 @@
-![T\_021.jpeg](files/e1bade18-2f5b-4d0b-9ec3-d47d72c8b295/T_021.jpeg)
+![T_021.jpeg]({{ site.baseurl }}/files/T_021.jpeg)
 
 # Character Description
 
@@ -6,7 +6,7 @@ Is a soldier trained in precision shooting over a long distance, has the skills 
 
 # Appearance
 
-![DDM2.jpg](files/62e08b39-f3d5-4d47-92ee-ee23df9b5197/DDM2.jpg)
+![DDM2.jpg]({{ site.baseurl }}/files/DDM2.jpg)
 
 # Special Abilities
 

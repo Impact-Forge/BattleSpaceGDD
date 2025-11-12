@@ -1,3 +1,3 @@
-- [Aerial Warfare](<Aerial Warfare b103c788.md?n>)
-- [Maritime Warfare](<Maritime Warfare cf65234f.md?n>)
-- [Land Warfare](<Land Warfare c1c4caad.md?n>)
+- [Aerial Warfare]({{ site.baseurl }}/docs/combat/aerial-warfare)
+- [Maritime Warfare]({{ site.baseurl }}/docs/combat/maritime-warfare)
+- [Land Warfare]({{ site.baseurl }}/docs/combat/land-warfare)

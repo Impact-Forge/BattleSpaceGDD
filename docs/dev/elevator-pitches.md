@@ -1,4 +1,3 @@
-![T\_030.jpg](files/07f07754-17bd-47a5-bc8e-366279644140/T_030.jpg)
 
 # 1 Min
 
@@ -70,8 +69,6 @@ Join us in shaping the future of military gaming. Together, let's conquer the vi
 
 # 30 Min&#x20;
 
-![Battlespace\_Title\_Page- 005.PNG](<files/ec420166-8ea3-48ab-9d57-b728ff6d3ac2/Battlespace_Title_Page- 005.PNG>)
-
 # BattleSpace Series
 
 Evolution of an Idea !
@@ -128,22 +125,22 @@ Title: "BattleSpace: Multi-Domain Operation (MDO-Warfare)"
 
 At the start of the game players will be able to set up their own unit squad size team of 13 Max players within one unit. All unit members will be able to respawn after death or remain incapacitated until a team medic has revived the player. Players have to select 1 of the 14 roles from [The Team House ](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/The-Team-House-Characters-9b1d21b2-72f8-4b22-b9e2-1c2b83285eaf "Nuclino")Characters. Each having their own unique loadouts and capabilities of function for the unit needs.
 
-1. [Commander](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Commander-7c5715a7-6819-4634-abf2-3e305730302f "Nuclino")
-2. [Squad Leader](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Squad-Leader-4583620d-f09d-46e0-885f-3e8167898df6 "Nuclino")
-3. [Team Leader](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Team-Leader-ba40251c-39c6-45d5-9d72-04fa74a0de48 "Nuclino")
-4. [Advisor/ PMC](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Advisor-PMC-784bedd8-cbac-4fa1-bdbc-ab7ccf2fdace "Nuclino")
-5. [Auto Rifleman](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Auto-Rifleman-68448619-d671-4c5f-8dac-a7dfe8d36765 "Nuclino")
-6. [Radio Man](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Radio-Man-75c1d577-f6f9-444d-ba4e-3f5ab1cc8282 "Nuclino")
-7. [Grenadier](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Grenadier-4c13923b-8346-4722-b04a-771b15a2242e "Nuclino")
-8. [Rifleman](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Rifleman-07399c06-5aed-47f5-8bf9-d51798b36ddc "Nuclino")
-9. [Designated Defensive Marksman / Sniper](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Designated-Defensive-Marksman-Sniper-4faefb90-3220-4ef0-b344-8ab1113b1ab9 "Nuclino")
-10. [Special Weapons Man](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Special-Weapons-Man-0b791342-7530-4964-845c-c17ebbe2bb25 "Nuclino")
-11. [Combat Engineer](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Combat-Engineer-a1699fe6-29dc-4afa-97eb-017f0d4823d2 "Nuclino")
-12. [Medic](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Medic-bbc56fa8-200b-4a2e-a5c6-fb9d45a85130 "Nuclino")
-13. [Pilot](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Pilot-b58048d4-b817-4b80-a01d-509b8daf57de "Nuclino")
-14. [Crewman](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/CrewMan-e7d4bf43-8231-4f29-8e0e-9c64b5a42172 "Nuclino")
+- [Commander ]({{ site.baseurl }}/docs/roles/commander)
+- [Squad Leader]({{ site.baseurl }}/docs/roles/squad-leader)
+- [Team Leader]({{ site.baseurl }}/docs/roles/team-leader)
+- [Advisor / PMC ]({{ site.baseurl }}/docs/roles/advisor-pmc)
+- [Auto Rifleman ]({{ site.baseurl }}/docs/roles/auto-rifleman)
+- [Radio Man]({{ site.baseurl }}/docs/roles/radio-man)
+- [Rifleman ]({{ site.baseurl }}/docs/roles/rifleman)
+- [Grenadier ]({{ site.baseurl }}/docs/roles/grenadier)
+- [Special Weapons Man]({{ site.baseurl }}/docs/roles/special-weapons-man)
+- [Designated Defensive Marksman / Sniper]({{ site.baseurl }}/docs/roles/designated-marksman)
+- [Combat Engineer]({{ site.baseurl }}/docs/roles/combat-engineer)
+- [Medic ]({{ site.baseurl }}/docs/roles/medic)
+- [Pilot]({{ site.baseurl }}/docs/roles/pilot)
+- [CrewMan ]({{ site.baseurl }}/docs/roles/crew-man)
 
-[**Commanders**](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Zulu-Commander-7c5715a7-6819-4634-abf2-3e305730302f "Nuclino") will be able to purchase equipment and vehicles for his teams, build constructable infrastructure that will need to be built and upgraded in order to unlock advance weapons and assets (ie.. armor, vehicles and aircraft) that the team can use to take more territory.
+[**Commanders**]() will be able to purchase equipment and vehicles for his teams, build constructable infrastructure that will need to be built and upgraded in order to unlock advance weapons and assets (ie.. armor, vehicles and aircraft) that the team can use to take more territory.
 
 At the outset of a mission, a commander's primary duty is to secure a suitable location for the base. While this may be predetermined, it is often random. A strong location must be defensible and possess a flat terrain that allows for the construction of buildings. It is unwise to build structures on uneven ground, as it can impair the movement of troops and equipment.
 
@@ -162,11 +159,11 @@ The fortification of towns can be carried out through the application of appropr
 
 # Maps
 
-### [Land Locations:](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Land-Locations-cd059a3a-b31a-400c-8657-3b602e97dc12 "Nuclino")
+### [Land Locations:]({{ site.baseurl }}/docs/levels/land-locations)
 
 Ukraine is just one of several other BattleSpace "Land Warfare" we are looking to add to our War Series. We are looking at Ukraine, Alaska, , Taiwan, Poland, Falkland Islands.
 
-### [Maritime Locations:](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Maritime-Levels-42787f81-41ce-4d19-92c4-afa0f9aef41c "Nuclino")
+### [Maritime Locations:]({{ site.baseurl }}/docs/levels/maritime-levels)
 
 From the South China Sea to the Falkland Island are just several other BattleSpace "Maritime Warfare" we are looking to add to our War Series. These locations are selected to highlight the features of our game from island hopping all the way to establishing large beachhead assault to gain a foothold for a wider land conflict.
 
@@ -277,8 +274,6 @@ Forward Operating Base (FOB) spawn points will not work for the occupating team 
 # 1 Hour
 
 ---
-
-![Battlespace\_Title\_Page- 003.png](<files/fb607efd-cde4-4d7c-a3af-6b38653bb319/Battlespace_Title_Page- 003.png>)
 
 # BattleSpace Series
 
@@ -399,14 +394,6 @@ D key is strafe right
 
 ## Player Menu Hud:
 
-![Main Page.PNG](<files/066dda12-ea15-471b-b6b6-6b774fd89e2e/Main Page.PNG>)
-![Main Page 01.PNG](<files/3a29ae69-5fed-49b1-86dc-6444106227e5/Main Page 01.PNG>)
-
-![Main Page 03.PNG](<files/267635e8-826e-4c0d-8546-4beda9956074/Main Page 03.PNG>)
-![Main Page 04.PNG](<files/207f2808-41c3-40df-9f93-1e04223bbf35/Main Page 04.PNG>)
-
-![Main Page 05.PNG](<files/918e298e-930a-4821-8023-a179dfac62b2/Main Page 05.PNG>)
-![Main Page 06.PNG](<files/41eb5832-bd56-4243-8694-f3272f599e97/Main Page 06.PNG>)
 
 ## Players Screen Hud:&#x20;
 
@@ -418,13 +405,8 @@ D key is strafe right
 
 Backpack menu will be a radial menu. Each backpack will have its own slot limits.
 
-![3d0b387a35fb069a2964ee38cd6daec2.png](files/75b23b9b-9d93-487f-9a0b-60b0b6f5c615/3d0b387a35fb069a2964ee38cd6daec2.png)
-![maxresdefault.jpg](files/c3684296-81e8-473b-8a09-9c310d44fed9/maxresdefault.jpg)
 
 ## Player Inventory Menu Hud:
-
-![maxresdefault (1).jpg](<files/b8a11d93-15d6-400c-81e0-62cecddfd626/maxresdefault (1).jpg>)
-![Screenshot01-1920x1080-ff5bf6dee09658ecaad314292d5ec802.webp](files/cbbeb376-510b-4232-a211-cd5c206f5876/Screenshot01-1920x1080-ff5bf6dee09658ecaad314292d5ec802.webp)
 
 # Multiplayer:
 
@@ -460,11 +442,10 @@ Remember, success in "Battlespace" depends on your ability to plan, coordinate, 
 
 # Theme and Setting
 
-![Battlespace\_Title\_Page- 009.png](<files/4557fa63-573c-4cf1-9c57-20d1929077ed/Battlespace_Title_Page- 009.png>)
 
 ### Our featured game mode: Multi-Domain Operation (MDO-Warfare)
 
-At the start of the game players will be able to set up their own unit squad size team of 13 Max players within one unit. All unit members will be able to respawn after death or remain incapacitated until a team medic has revived the player. Players have to select 1 of the 14 roles from [The Team House ](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/The-Team-House-Characters-9b1d21b2-72f8-4b22-b9e2-1c2b83285eaf "Nuclino")Characters. Each having their own unique loadouts and capabilities of function for the unit needs.
+At the start of the game players will be able to set up their own unit squad size team of 13 Max players within one unit. All unit members will be able to respawn after death or remain incapacitated until a team medic has revived the player. Players have to select 1 of the 14 roles from [The Team House ]({{ site.baseurl }}/docs/narrative/characters)Characters. Each having their own unique loadouts and capabilities of function for the unit needs.
 
 1. [Commander](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Commander-7c5715a7-6819-4634-abf2-3e305730302f "Nuclino")
 2. [Squad Leader](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Squad-Leader-4583620d-f09d-46e0-885f-3e8167898df6 "Nuclino")
@@ -522,7 +503,7 @@ Each player will have their own personal economy system, which they can use to p
 
 # Medical
 
-[Medical System](<Medical System 5335047f.md?n>)
+[Medical System]({{ site.baseurl }}/docs/gameplay/medical-system)
 
 Players will have to implement basic TCCC better known as â€œTactical Combat Casualty Careâ€ into the game to help educate players on real life evidence-based, life-saving techniques and strategies for providing the best trauma care on the battlefield.
 
@@ -567,67 +548,58 @@ Types of Deaths:
 
 **Power Station -** A power station, also referred to as a power plant and sometimes generating station or generating plant, is an industrial facility for the generation of electric power. Power stations are generally connected to an electrical grid.
 
-![00 (1).jpg](<files/e7108672-03d4-4128-95b3-f3ab9b6b2ec6/00 (1).jpg>)
 
 <br>
 
 **Modbile Power Station** - The most robust and reliable power solutions for defense or offensive needs. It allow the start of the network for the power to be set up to each area captured.  This powers your FOB Spawn point and other equipment that requires power grid.
 
-![02.jpg](files/cd58f3a6-4bc6-4dff-be87-35a8bdca118e/02.jpg)
 
 <br>
 
 Comms Tower - Comms towers will need to be built for each town in order to complete the capture of the town. Comms towers must have power to complete this task.
 
-![radio cooms.jpg](<files/03d9f0c3-a564-4db3-a1de-dd4afa6327b4/radio cooms.jpg>)
 
 <br>
 
 **Forward Operating Base (FOB) -** Static harden spawns point.
 
-![MO\_WEB\_SET\_GALLERY\_11\_1100x.jpg](files/e5b59948-9a5f-4057-9173-c8dba8815a17/MO_WEB_SET_GALLERY_11_1100x.jpg)
 
 <br>
 
 ### Boat Marina : the building that allows players to purchase and utilize small vessels. Commander must place these near a body of water in order for them to function properly.
 
-![modular-pier-3d-model-max-obj-fbx-blend.jpg](files/626e848b-ddc0-4a47-b625-280f2c142229/modular-pier-3d-model-max-obj-fbx-blend.jpg)
 
 <br>
 
 **Armory** - a military storage compound where machine guns, rifles, pistols, ammunition, parts, explosives and accessories are kept. **Armory** - loadout menu will be accessed from here for players to buys and build thier kits. Kits can only be changed in at this location.&#x20;
 
-![large\_thumbnail.jpg](files/5283f1d9-3eac-4d6d-bc5c-a7117947d4c6/large_thumbnail.jpg)
 
 <br>
 
 **Research Facilities** -research laboratory focused on cutting-edge scientific discovery, technological innovation, and transition of knowledge products that offer incredible potential to improve the militaryâ€™s chances of surviving and winning any future conflicts. This will be where upgrades for equpment, vehicles and aircraft is done. This controls the advancement of technology on the battlefield. Once goal and resources have been achieved it will unlock the new tech allowing the players to build better vehicles or aircraft and use better equipment.
 
-![392116dbdfca187878635d4469355af6.jpg](files/0c086c58-113c-4235-81aa-342908960658/392116dbdfca187878635d4469355af6.jpg)
 
 <br>
 
 **Communications Center** -The nerve center or war room is primarily a communications facility where audio, video and digital communication is relayed and analyzed by military staffers who evaluate and correlate various pieces of information to discern the level at which a concern should be elevated. If the communication center is destoryed the VOIP will go down for the team and only Local VOIP will work.
 
-![radarbuilding.jpg](files/44bcb1cc-e908-4d54-98c1-df99adefe7eb/radarbuilding.jpg)
 
 <br>
 
 **HQ -** The military installation from which a commander performs the functions of command. This must be the first build before the commander can build any other buidings.&#x20;
 
-![1ba5a3b54cb64f539ba30cab20973c14.jpeg](files/ea586740-1002-472c-8f13-f3a71f0d2984/1ba5a3b54cb64f539ba30cab20973c14.jpeg)
 
 <br>
 
 **Hanger** - Storage for air asset assigned to each squad.  Captured vehicles can be salvage or recovered back to the main base to be repaired and reused or cashed out as resources for building different vehicles.  Aircratf can be built there for usage.
 
-![airport-hangar-smallhangar-01-open-3d-model-low-poly-obj-fbx-hrc-cob.jpg](files/c56f6986-de03-4ec8-b648-934793c8fadc/airport-hangar-smallhangar-01-open-3d-model-low-poly-obj-fbx-hrc-cob.jpg)
+
 
 <br>
 
 **Portable Helipad -** Within a minute you can create a stable, permanent or temporary landing zone. It takes one Engineer and commander to install a pad. Here, helicopters operations can be conducted. The pad will be the spawn points for any Rotary Aircraft, rearm, repair and refueling. Please note if the pad is damage in any way the pad will not be able to conduct these fuctions until they have been reapired by an engineer class.&#x20;
 
-![portable helipad.jpg](<files/7b295f84-897e-4fc7-9c17-8087dca1e3e2/portable helipad.jpg>)
+
 
 <br>
 
@@ -635,7 +607,6 @@ Comms Tower - Comms towers will need to be built for each town in order to compl
 
 **Motor Pool** - Function that is storage for vehicles asset assigned to each squad.  Captured vehicles can be salvage or recovered back to the main base to be repaired and reused or cashed out as resources for building different vehicles.  Vehicles can be built there for usage.
 
-![MO\_WEB\_SET\_GALLERY\_4\_1500x.jpg](files/912df867-8eb1-4f8a-8cb0-a5a854beb5e5/MO_WEB_SET_GALLERY_4_1500x.jpg)
 
 <br>
 
@@ -647,11 +618,6 @@ Two ways to Salvage:
 2. If the destroy vehicle towed by a Salvage Vehicle and driven back to the main Motor Pool, (2 x's) the amount of resources will be added to the team or an extra vehicle asset that is equivalent to the salvage will be added the team assets reserve.
    <br>
 
-![qq9ti7t5tf361.jpg](files/26e73aa1-618a-42b0-8267-76e66c30f2d7/qq9ti7t5tf361.jpg)
-![images (10).jpeg](<files/452568df-a637-491b-8ef0-b3d99338de38/images (10).jpeg>)
-![s-l400.jpg](files/c72d5a8b-34ea-4c3d-8086-b440eef41223/s-l400.jpg)
-
-![BREM 1M Recovery Vehicle.jpg](<files/d4ab3656-71b3-4ce9-b926-880d0098966a/BREM 1M Recovery Vehicle.jpg>)
 
 <br>
 
@@ -659,14 +625,11 @@ Two ways to Salvage:
 
 **Repair Vehicle -** is mobile repair vehicle that can speed up the repair time. The Vehicle that is being repaied must not be totally destroyed in order to be repaired. If the vehicle is totally destroyed that vehcile Mesh will be deleted after X amount of time .
 
-![product-image-1698723935\_1024x1024@2x.jpg](files/715e7d5a-dbd2-4b6d-8176-ada7efe93403/product-image-1698723935_1024x1024@2x.jpg)
 
 <br>
 
 **Fuel Truck** - Mobile refuel truck for all types of vehicles and aircratf.
 
-![hemtt-m978-oshkosh-military-fuel-truck-01.jpg](files/ff0795f1-7453-4e15-9b55-5c7a5da2494c/hemtt-m978-oshkosh-military-fuel-truck-01.jpg)
-![Fuel Truck.jpg](<files/a0e951fe-cca3-4045-99de-b6149447285b/Fuel Truck.jpg>)
 
 <br>
 
@@ -674,58 +637,41 @@ Two ways to Salvage:
 
 **Medical Evacuation Vehicle -** is a mobile medical vehicle that is used to heal players that are forward on the battlefield and is also used to for the medic player to build one stats MASH. Each vehicle can build one and can be broken back down and moved forward to another location. If the MASH is destroyed the vehicle will have to return to a rearm and resupply location to replenish the MASH.
 
-![stryker\_mev\_.jpg](files/76b6f83b-62b1-4f74-84a4-47db196bde74/stryker_mev_.jpg)
 
 <br>
 
 UAV Container - the UAV container is where the commander will have to utilize any drone function within the game container must be within range of the headquarter building or the mobile HQ vehicle.
 
-![uavcontrolcontainer2.jpg](files/4a9c23f5-f105-45f1-ba61-070d5fa0773d/uavcontrolcontainer2.jpg)
 
 <br>
 
 **Drones** : IRS in the sky. An unmanned combat aerial vehicle (UCAV), also known as a combat drone, colloquially shortened as drone or battlefield UAV, is an unmanned aerial vehicle (UAV) that is used for intelligence, surveillance, target acquisition, and reconnaissance and carries aircraft ordnance such as missiles, ATGMs, and/or bombs in hardpoints for drone strikes.
 
-![military-drone-d-rendering-isolated-white-background-military-drone-d-rendering-138619863.jpg](files/759ae932-c022-47b5-afb5-9f7c0704e1e9/military-drone-d-rendering-isolated-white-background-military-drone-d-rendering-138619863.jpg)
-
-<br>
-
-![drone-helicopter-uav-tracking-search-neighborhood-k-aerial-footage-neighborhood-tracking-surveillance-concept-footage-103207071.jpg](files/bba3a5c5-fb8d-4c4a-b1f7-a55b3724ad8f/drone-helicopter-uav-tracking-search-neighborhood-k-aerial-footage-neighborhood-tracking-surveillance-concept-footage-103207071.jpg)
-![1.jpg](files/6874251f-a026-49aa-a1aa-d63eef2b4467/1.jpg)
-![maxresdefault.jpg](files/614476b1-f3d6-4d8c-a21c-486eb7d8e571/maxresdefault.jpg)
 
 <br>
 
 **Supply Truck**: Is a truck that can be loaded with supplies and cargo for rearming individual soldier, FOB's, Armored Vehicles, Aircraft and defenses systems. It is the heart beat of the logistical system that is needed to maintain forward progress on the battlefield.
 
-![man-hx77-container-truck-3d-model-8ab2a94ded.jpg](files/6b27612b-3e40-45db-99f6-dffd3b8e9ecf/man-hx77-container-truck-3d-model-8ab2a94ded.jpg)
-![download.jfif](files/e99540bc-fc29-4bd6-963e-6afdb186c134/download.jfif)
 
 <br>
 
 **Medium Tactical Vehicle Replacement MTVR**:  The MTVR can carry a payload of seven tons or up to fifteen tons driving on smoother surfaces, while simultaneously being able to tow an eleven ton load. The MTVR is highly adaptable for any cargo hauling, carrying or winching. It's wide versatility makes the MTVR an integral part of the  logistical backbone. This vehicle is the prime mover for the M777 howitzer, troops, IRB, fuel, water and a wide variety of other equipment.
 
-![usmilitarycargotruckm35a2camovray3dmodel001.jpg](files/3182784a-e6b4-46cc-8796-0ffd34c8d861/usmilitarycargotruckm35a2camovray3dmodel001.jpg)
-![trailer\_cargo\_34\_military\_1.jpg](files/d0136bd4-f1a8-4ba9-ab5c-1158f94ab569/trailer_cargo_34_military_1.jpg)
 
 <br>
 
 **Improved Ribbon Bridge (IRB)** : is a modern floating bridge system. It is designed to provide ground forces with the capability to transport heavy military equipment such as loaded heavy equipment transporter (HET), weapons systems, wheeled / tracked combat vehicles, trucks, suppliers and troops over rivers, and wet gap obstacles. Requires an engineer and full supply truck or **MTVR** to build each section.
 
-![FloatBridgeBan.webp](files/973027bc-aa33-4dcd-af50-46b9ed4ed6ae/FloatBridgeBan.webp)
-![800px-Excalibur\_Army\_IRB\_(3).jpg](files/c2f783c7-a809-4a36-b622-fed6a080d233/800px-Excalibur_Army_IRB_\(3\).jpg)
 
 <br>
 
 ### Electronic Warfare (EW) Jamming - Function it can be used to deny adversaries the ability to either disrupt or use these signals.  Radios will be blocked 120 seconds over a selected area and 10 min cool down time.
 
-![Electronic-Warfare-Header.gif](files/337d53e5-3c7f-4a7e-afec-6697d5fd915f/Electronic-Warfare-Header.gif)
 
 <br>
 
 **Rally Spawn Point (RSP)** - Mobile spawn point that can be trip if enemy is near.
 
-![Military\_satcom\_DOD\_6.2.15.jpg](files/c5dfdfde-8891-42e1-93ba-5548110351c9/Military_satcom_DOD_6.2.15.jpg)
 
 <br>
 
@@ -733,7 +679,6 @@ UAV Container - the UAV container is where the commander will have to utilize an
 
 <br>
 
-![modular-pier-3d-model-max-obj-fbx-blend.jpg](files/626e848b-ddc0-4a47-b625-280f2c142229/modular-pier-3d-model-max-obj-fbx-blend.jpg)
 
 <br>
 

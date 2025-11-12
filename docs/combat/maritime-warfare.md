@@ -1,4 +1,4 @@
-![martimer.jfif](files/8aaae05d-83aa-427f-aacf-2ba28d6234de/martimer.jfif)
+![martimer.jfif]({{ site.baseurl }}/files/martimer.jfif)
 
 "Battlespace" features a gripping actions that takes players through a series of high-stakes missions across different theatres of operation. The game is set in a current and pass conflicts between Blufor and Opfor, with players taking on the role of different military team members who are tasked with leading their forces to victory.
 
@@ -6,8 +6,8 @@ Naval warfare is combat in and on the sea, the ocean, or any other battlespace i
 
 <br>
 
-![Capture.PNG](files/3bbb1e60-957a-40a6-aa95-1834a221cd44/Capture.PNG)
-![istockphoto-1345102641-612x612.jpg](files/0ebc44e6-5e10-4971-9273-39e127ff42d7/istockphoto-1345102641-612x612.jpg)
+![Capture.PNG]({{ site.baseurl }}/files/Capture.PNG)
+![istockphoto-1345102641-612x612.jpg]({{ site.baseurl }}/files/istockphoto-1345102641-612x612.jpg)
 
 <br>
 
@@ -17,7 +17,7 @@ Maritime warfare in relations to Battlespace will be limited in the beginning as
 
 <br>
 
-![LCAC.jpg](files/90fcc91e-e490-491b-ac43-df7a024f247c/LCAC.jpg)
-![US\_Navy\_060606-N-8154G-115\_Two\_Landing\_Craft\_Utilities\_(LCU)\_assigned\_to\_Amphibious\_Craft\_Unit\_Two\_(ACU-2),\_rehearse\_storming\_the\_beach\_in\_Curacao,\_Netherlands\_Antilles.jpg](files/10e9df09-54e4-40c4-bcec-c042d8cff308/US_Navy_060606-N-8154G-115_Two_Landing_Craft_Utilities_\(LCU\)_assigned_to_Amphibious_Craft_Unit_Two_\(ACU-2\),_rehearse_storming_the_beach_in_Curacao,_Netherlands_Antilles.jpg)
+![LCAC.jpg]({{ site.baseurl }}/files/LCAC.jpg)
+![US\_Navy\_060606-N-8154G-115\_Two\_Landing\_Craft\_Utilities\_(LCU)\_assigned\_to\_Amphibious\_Craft\_Unit\_Two\_(ACU-2),\_rehearse\_storming\_the\_beach\_in\_Curacao,\_Netherlands\_Antilles.jpg]({{ site.baseurl }}/files/US_Navy_060606-N-8154G-115_Two_Landing_Craft_Utilities_\(LCU\)_assigned_to_Amphibious_Craft_Unit_Two_\(ACU-2\),_rehearse_storming_the_beach_in_Curacao,_Netherlands_Antilles.jpg)
 
 <br>

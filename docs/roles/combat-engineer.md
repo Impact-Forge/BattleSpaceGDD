@@ -1,4 +1,4 @@
-![images (11).jpeg](<files/afd7a884-11f6-405a-a365-140ace3fa372/images (11).jpeg>)
+![images (11).jpeg](<{{ site.baseurl }}/files/images (11).jpeg>)
 
 # Character Description
 
@@ -6,7 +6,7 @@ A combat engineer is a type of soldier who performs military engineering tasks i
 
 # Appearance
 
-![US\_Navy\_111129-M-IC831-164\_U.S.\_Marine\_Lance\_Cpl.\_Evan\_Craig,\_a\_combat\_engineer\_assigned\_to\_the\_Special\_Purpose\_Marine\_Air\_Ground\_Task\_Force\_(SPMA.jpg](files/e67cf2b6-fbea-4409-a179-9a504978fc7e/US_Navy_111129-M-IC831-164_U.S._Marine_Lance_Cpl._Evan_Craig,_a_combat_engineer_assigned_to_the_Special_Purpose_Marine_Air_Ground_Task_Force_\(SPMA.jpg)
+![USSPMA.jpg]({{ site.baseurl }}/files/SPMA.jpg)
 
 # Special Abilities
 

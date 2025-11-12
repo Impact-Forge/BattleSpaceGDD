@@ -58,7 +58,7 @@ Your current scope is **2-3 years of work**. To ship in 12 months, you must cut 
 
 ### MONTH 1-2: FOUNDATION SPRINT
 **Goal:** Playable 8v8 prototype
-- âœ… SKG Framework integrated (already done)
+- SKG Framework integrated (already done)
 - Integrate Terminal Ballistics
 - Basic movement, shooting, damage
 - One test map (greybox)

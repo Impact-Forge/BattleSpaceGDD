@@ -1,10 +1,12 @@
-- [Wupy](<Wupy 8289afb5.md?n>)
-- [SMILOX](<SMILOX 363a2b6d.md?n>)
-- [ArchRevenant](<ArchRevenant deffa1b7.md?n>)
-- [Butcher-Ak ](<Butcher-Ak 4486256c.md?n>)
-- [vill\_chip](<vill_chip 9bae9bf6.md?n>)
-- [EmercomCamper](<EmercomCamper cb665390.md?n>)
-- [Fourleaf](<Fourleaf 625259db.md?n>)
-- [Akuma](<Akuma 5b838e5e.md?n>)
-- [Gemesil](<Gemesil 643fe894.md?n>)
-- [Untitled item](<Untitled item ef8ac1c9.md?n>)
+- Director - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
+- Project Manager - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
+- Quality Control - [Butcher-Ak ]({{ site.baseurl }}/docs/characters/butcher-ak)
+- Programmers - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
+- Community Manager- &#x20; 
+- Cinematics - [Fourleaf]({{ site.baseurl }}/docs/characters/fourleaf)
+- Audio - [ArchRevenant]({{ site.baseurl }}/docs/characters/arch-revenant)
+- Animation - &#x20;
+- 3D Artists - &#x20;
+- 2D Artist - &#x20;
+- Level Design - &#x20;
+- Environment Art - &#x20;

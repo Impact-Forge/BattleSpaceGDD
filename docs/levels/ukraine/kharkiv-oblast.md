@@ -1,4 +1,4 @@
-![Kharkiv\_in\_Ukraine\_(claims\_hatched).svg.png](files/e54a03a0-68cd-45b3-bb25-4298ae8ff64d/Kharkiv_in_Ukraine_\(claims_hatched\).svg.png)
+![Kharkiv\_in\_Ukraine\_(claims\_hatched).svg.png]({{ site.baseurl }}/files/Kharkiv_in_Ukraine_\(claims_hatched\).svg.png)
 
 # Synopsis
 

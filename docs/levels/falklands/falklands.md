@@ -1,4 +1,4 @@
-![600px-Falkland\_Islands\_regions\_map.png](files/b9e99163-eafa-497b-8c9f-ae0cd7a9f024/600px-Falkland_Islands_regions_map.png)
+![600px-Falkland\_Islands\_regions\_map.png]({{ site.baseurl }}/files/600px-Falkland_Islands_regions_map.png)
 
 The Falkland Islands (Islas Malvinas) are a remote South Atlantic archipelago. With rugged terrain and cliff-lined coast's, its hundreds of islands and islets are home to sheep farms and abundant birdlife. The capital, Stanley, sits on East Falkland, the largest island. The town's Falkland Islands Museum has themed galleries devoted to maritime exploration, natural history, the 1982 Falklands War and other subjects
 
@@ -21,7 +21,7 @@ You team will need to gain possession or control all key locations across the en
 
 <br>
 
-![falklands.png](files/41efbe8b-314f-4e72-8072-6f1d9b468f8d/falklands.png)
+![falklands.png]({{ site.baseurl }}/files/falklands.png)
 
 # Level walkthrough
 
@@ -33,7 +33,7 @@ You have just entered the country Falkland Islands (Islas Malvinas), Argentina w
 
 Level 1&#x20;
 
-- [ ] Sector 1 :[ ](https://app.nuclino.com/Sierra-Zulu-Studios/Game-Design-Document/Izmail-UA-6b7f9767-53d3-49a4-b7b8-45979499136e "Nuclino") North East Falkland
+- [ ] Sector 1 :  North East Falkland
 - [ ] Sector 2 :  South East Falkland&#x20;
 - [ ] Sector 3 :  North West Falkland
 - [ ] Sector 4 :  South West Falkland

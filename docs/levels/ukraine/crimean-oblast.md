@@ -1,4 +1,4 @@
-![ukraine-crimea-donbas.png](files/301e3245-2fe2-4635-833c-15dcf50b0967/ukraine-crimea-donbas.png)
+![ukraine-crimea-donbas.png]({{ site.baseurl }}/files/ukraine-crimea-donbas.png)
 
 # Synopsis
 

@@ -1,4 +1,4 @@
-![Kiev\_(oblast)\_in\_Ukraine\_(claims\_hatched).svg.png](files/8b72852d-4841-4c57-9521-f17f96b8bf4b/Kiev_\(oblast\)_in_Ukraine_\(claims_hatched\).svg.png)
+![Kiev\_(oblast)\_in\_Ukraine\_(claims\_hatched).svg.png]({{ site.baseurl }}/files/Kiev_\(oblast\)_in_Ukraine_\(claims_hatched\).svg.png)
 
 # Synopsis
 

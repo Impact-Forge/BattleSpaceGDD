@@ -1,4 +1,4 @@
-![75th-ranger-regiment (1).gif](<files/c82a8017-12c7-4893-afaa-0dd147327be2/75th-ranger-regiment (1).gif>)
+![75th-ranger-regiment (1).gif](<{{ site.baseurl }}/files/75th-ranger-regiment (1).gif>)
 
 <br>
 
@@ -26,10 +26,10 @@ Conclusion:
 
 In summary, Butcher\_AK's background in organization and preparation, coupled with his passion for game design, has provided him with a unique perspective that he is now leveraging to create a truly exceptional Multi-Domain warfare game. By combining his expertise in game design with his experience in the field, he is confident that he can deliver a game that will be both immersive and engaging, and that will keep players coming back for more.
 
-![10580118\_10205046730751223\_2915947327410401079\_n.jpg](files/f1e0356b-2609-490b-a58c-a7c531afb0b5/10580118_10205046730751223_2915947327410401079_n.jpg)
+![10580118\_10205046730751223\_2915947327410401079\_n.jpg]({{ site.baseurl }}/files/10580118_10205046730751223_2915947327410401079_n.jpg)
 
-![FLashback.png](files/efbf698c-c0f2-4574-9261-9ffd12c26b91/FLashback.png)
+![FLashback.png]({{ site.baseurl }}/files/FLashback.png)
 
-![MWD-Niko-min-1024x683.jpg](files/0229a035-f5bd-41f0-b283-00be790bff28/MWD-Niko-min-1024x683.jpg)
+![MWD-Niko-min-1024x683.jpg]({{ site.baseurl }}/files/MWD-Niko-min-1024x683.jpg)
 
 <br>

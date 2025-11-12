@@ -1,12 +1,12 @@
 # Character Description
 
-![10000998-combat-medic-hero-42-strong\_en-06a6a2029fa9e5f7.jpg](files/b83f9c80-a3a7-4109-9bf4-86605a443807/10000998-combat-medic-hero-42-strong_en-06a6a2029fa9e5f7.jpg)
+![10000998-combat-medic-hero-42-strong\_en-06a6a2029fa9e5f7.jpg]({{ site.baseurl }}/files/10000998-combat-medic-hero-42-strong_en-06a6a2029fa9e5f7.jpg)
 
 As a Combat Medic, you'll administer emergency medical care in the field in combat, as well as primary care and health protection and evacuation from a point of injury.
 
 # Appearance
 
-![combat-conflict-special-mission-retreat-military-medic-rescues-his-wounded-teammate-carrying-him-off-battlefield-studio-photo-143640512.jpg](files/00c4ad3d-75e9-40e4-9fe2-14f5b08ec0ec/combat-conflict-special-mission-retreat-military-medic-rescues-his-wounded-teammate-carrying-him-off-battlefield-studio-photo-143640512.jpg)
+![combat-conflict-special-mission-retreat-military-medic-rescues-his-wounded-teammate-carrying-him-off-battlefield-studio-photo-143640512.jpg]({{ site.baseurl }}/files/combat-conflict-special-mission-retreat-military-medic-rescues-his-wounded-teammate-carrying-him-off-battlefield-studio-photo-143640512.jpg)
 
 # Special Abilities
 

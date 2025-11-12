@@ -1,4 +1,4 @@
-![Air\_02.jpg](files/dfc16996-fe5e-4ffc-b682-655b3857ae74/Air_02.jpg)
+![Air\_02.jpg]({{ site.baseurl }}/files/Air_02.jpg)
 
 # Character Description
 
@@ -6,7 +6,7 @@ Pilots fly various types of specialized aircraft to transport troops and equipme
 
 # Appearance
 
-![PilitScr06-1920x1080-aab975e87c8e81e63d04481dc70376ed.jpg](files/c8a85ae0-e989-4085-bd05-c2898c187bf0/PilitScr06-1920x1080-aab975e87c8e81e63d04481dc70376ed.jpg)
+![PilitScr06-1920x1080-aab975e87c8e81e63d04481dc70376ed.jpg]({{ site.baseurl }}/files/PilitScr06-1920x1080-aab975e87c8e81e63d04481dc70376ed.jpg)
 
 # Special Abilities
 

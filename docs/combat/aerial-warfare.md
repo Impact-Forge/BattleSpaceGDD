@@ -1,4 +1,4 @@
-![air.png](files/b6bee0c4-407d-410a-be01-9c219b9f11fd/air.png)
+![air.png](files/air.png)
 
 "Battlespace" features a gripping action that takes players through a series of high-stakes missions across different theatres of operation. The game is set in a current and pass conflicts between OPFOR and BLUFOR, with players taking on the role of different military team members who are tasked with leading their forces to victory.
 

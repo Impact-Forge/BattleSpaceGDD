@@ -1,5 +1,5 @@
-![Poland-political-map.jpg](files/072d0877-f859-4b52-a858-3cedf9376dde/Poland-political-map.jpg)
-![POLSKA\_mapa\_woj\_z\_powiatami.png](files/2b4ab4df-053a-4499-aeaa-4703147666e1/POLSKA_mapa_woj_z_powiatami.png)
+![Poland-political-map.jpg]({{ site.baseurl }}/files/Poland-political-map.jpg)
+![POLSKA\_mapa\_woj\_z\_powiatami.png]({{ site.baseurl }}/files/POLSKA_mapa_woj_z_powiatami.png)
 
 Poland, officially the Republic of Poland, is a country in Central Europe. It is divided into 16 administrative provinces called voivodeships, covering an area of 312,696 kmÂ². Poland has a population of 38 million and is the fifth-most populous member state of the European Union.&#x20;
 

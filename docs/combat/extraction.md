@@ -1,4 +1,4 @@
-![360\_F\_120587309\_LiqjxFjMCh28xv3u8rmfoq83fL1sjw2u.jpg](files/2af40cf2-1132-43c9-8f9f-57d392ec564c/360_F_120587309_LiqjxFjMCh28xv3u8rmfoq83fL1sjw2u.jpg)
+![360\_F\_120587309\_LiqjxFjMCh28xv3u8rmfoq83fL1sjw2u.jpg]({{ site.baseurl }}/files/360_F_120587309_LiqjxFjMCh28xv3u8rmfoq83fL1sjw2u.jpg)
 
 The The Extraction game mode typically involves two teams of players, with one team tasked with extracting a valuable asset or hostage from a designated location, and the other team tasked with preventing the extraction or rescuing the hostage.
 
@@ -16,7 +16,7 @@ Overall, the Extraction game mode can provide a thrilling and dynamic experience
 
 # Dynamic Spawn Points & Objective Generator &#x20;
 
-![PlayerSpawns\_Liv.jpg](files/c3fb59f3-d0f4-4c41-a25b-c05200ecdbe4/PlayerSpawns_Liv.jpg)
+![PlayerSpawns\_Liv.jpg]({{ site.baseurl }}/files/PlayerSpawns_Liv.jpg)
 
 <br>
 
@@ -24,19 +24,19 @@ Overall, the Extraction game mode can provide a thrilling and dynamic experience
 
 <br>
 
-![images.jfif](files/6ff475ff-4942-4eab-a514-33f89f47bf45/images.jfif)
+![images.jfif]({{ site.baseurl }}/files/images.jfif)
 
 <br>
 
 # Mapping
 
-![4\_3.png](files/ead633a1-0bf7-40b2-b46f-0aa1ced0502e/4_3.png)
+![4\_3.png]({{ site.baseurl }}/files/4_3.png)
 
 <br>
 
 Transparent Topographical
 
-![austincontours-800x479.jpg](files/68e9ebea-10d2-4403-94dc-ea9ae0f872bd/austincontours-800x479.jpg)
+![austincontours-800x479.jpg]({{ site.baseurl }}/files/austincontours-800x479.jpg)
 
 <br>
 

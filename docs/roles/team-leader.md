@@ -1,4 +1,4 @@
-![mpjjm5gnbxiioaedso7g.jpg](files/d63b552c-cc7c-423e-8b6e-21b7d237f01b/mpjjm5gnbxiioaedso7g.jpg)
+![mpjjm5gnbxiioaedso7g.jpg]({{ site.baseurl }}/files/mpjjm5gnbxiioaedso7g.jpg)
 
 # Character Description
 
@@ -6,7 +6,7 @@ Helps the Squad Leader prepare their soldiers for wartime missions. This positio
 
 # Appearance
 
-![Valley-Boys-Cover.jpg](files/3d51f484-7b70-4379-9eee-52cc1341f190/Valley-Boys-Cover.jpg)
+![Valley-Boys-Cover.jpg]({{ site.baseurl }}/files/Valley-Boys-Cover.jpg)
 
 # Special Abilities
 
