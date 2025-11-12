@@ -1,4 +1,4 @@
-![Battlespace\_Title\_Page- 003.png](<{{ site.baseurl }}/files/Battlespace_Title_Page- 003>)
+![Battlespace\_Title\_Page- 003.png](<{{ site.baseurl }}/files/Battlespace_Title_Page- 003.png>)
 
 # BattleSpace Series
 
@@ -40,13 +40,13 @@ The timeline is set in current modern times and inspired by current and past eve
 
 <br>
 
-![WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg]({{ site.baseurl }}/files/59f42e8b-d1a0-4d99-b0b6-41ec2258ed01/WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg)
+![WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg]({{ site.baseurl }}/files/WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg)
 
 Phase #1:  Land Warfare modular system, will be the PvP and or PvE, ground base systems for soldiers, vehicles, logistical and individual progression systems.
 
 <br>
 
-![Top-10-advanced-fighter-Aircraft-2020.png]({{ site.baseurl }}/files/d452667e-a769-4bbd-b2b5-5c0897d133fe/Top-10-advanced-fighter-Aircraft-2020.png)
+![Top-10-advanced-fighter-Aircraft-2020.png]({{ site.baseurl }}/files/Top-10-advanced-fighter-Aircraft-2020.png)
 
 Phase #2:  Aerial Warfare modularly system, will be PvP air to air combat game with some of the Maritime Warfare and economy system and Aircraft Carriers' as take off points.&#x20;
 
@@ -67,7 +67,7 @@ Phase #3: Will be combining all three systems Aerial, Land and Maritime systems 
   - **Age:** 14-35
   - **Gender:** Male/Female
     <br>
-- **Monetization:** Freemium,[ ](https://discord.com/channels/@me/1058837753183350894/1060028796885012600 "Discord - A New Way to Chat with Friends & Communities")with in-game micro-transactions, Premium, Paid Alpha/Beta/Final&#x20;
+- **Monetization:** Freemium,[ ](https://discord.com/ "Discord - A New Way to Chat with Friends & Communities") with in-game micro-transactions, Premium, Paid Alpha/Beta/Final&#x20;
 - **Platforms & System Requirements:** &#x20;
   - PC Only&#x20;
     <br>
@@ -162,7 +162,7 @@ Real Time Stats (RTS) - (working name) will gather various data from in-game abo
 - Programmers - [Wupy](<Wupy 8289afb5.md?n>)
 - Community Manager-&#x20; 
 - Cinematics - [Fourleaf](<Fourleaf 625259db.md?n>)
-- Audio - [ArchRevenant](<ArchRevenant deffa1b7.md?n>)
+- Audio - [ArchRevenant]({{ site.baseurl }}/docs/)
 - Animation -&#x20;
 - 3D Artists -&#x20;
 - 2D Artist -&#x20;
