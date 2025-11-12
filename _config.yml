@@ -4,34 +4,32 @@ theme: jekyll-theme-cayman
 baseurl: ""
 url: ""
 
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: Game Overview
-    url: /docs/game-overview
-  - title: Gameplay
-    url: /docs/gameplay
-  - title: Technical
-    url: /docs/technical
-
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Exclude from build
+# Exclude from build - CRITICAL: exclude vendor to prevent build errors
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Gemfile.alternative
   - README.md
+  - DEPLOYMENT.md
+  - WINDOWS_SETUP.md
+  - START_HERE.md
+  - PROJECT_SUMMARY.md
+  - QUICK_REFERENCE.txt
   - LICENSE
+  - vendor/
+  - .bundle/
+  - node_modules/
+  - "*.py"
+  - "*.bat"
+  - "*.sh"
 
-# Kramdown settings for better code rendering
+# Kramdown settings
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
