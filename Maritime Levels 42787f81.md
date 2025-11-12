@@ -1,5 +1,0 @@
-- [South China Sea](<South China Sea 470ac763.md?n>)
-- [Barents Sea ](<Barents Sea f6deffc7.md?n>)
-- [Indian Ocean](<Indian Ocean bee8bb85.md?n>)
-- [North Sea](<North Sea 89d1c243.md?n>)
-- [Black Sea](<Black Sea 98f30cbc.md?n>)

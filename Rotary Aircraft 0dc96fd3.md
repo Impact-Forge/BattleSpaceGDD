@@ -1,1 +1,0 @@
-- [Rotary Aircraft](<Rotary Aircraft 43282c4b.md?n>)

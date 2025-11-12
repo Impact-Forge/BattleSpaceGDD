@@ -1,0 +1,37 @@
+title: BATTLESPACE - Game Design Document
+description: A large-scale tactical FPS with persistent grid-based warfare
+theme: jekyll-theme-cayman
+baseurl: ""
+url: ""
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Game Overview
+    url: /docs/game-overview
+  - title: Gameplay
+    url: /docs/gameplay
+  - title: Technical
+    url: /docs/technical
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Kramdown settings for better code rendering
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
