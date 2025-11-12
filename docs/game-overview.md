@@ -1,4 +1,4 @@
-![Battlespace\_Title\_Page- 003.png](<files/df3c55d8-a2e3-48b5-be4b-9ad6428354f3/Battlespace_Title_Page- 003.png>)
+![Battlespace\_Title\_Page- 003.png](<{{ site.baseurl }}/files/df3c55d8-a2e3-48b5-be4b-9ad6428354f3/Battlespace_Title_Page- 003.png>)
 
 # BattleSpace Series
 
@@ -28,7 +28,7 @@ The timeline is set in current modern times and inspired by current and past eve
 
 # Visuals:
 
-"Battlespace" features stunning visuals that bring the game's world to life. The game's environments range from lush jungle landscapes to barren desert wastelands, and each location is rendered with stunning detail. The game's vehicles are also highly detailed, with realistic animations and sounds that help immerse players in the game's world. We are unleashing the power of the [Unreal Engine 5 ](https://app.nuclino.com/Impact-Studios-LLC/Game-Design-Document/Unreal-Engine-50-1f33137c-3af1-489d-b6fd-cded8aa5b05c "Nuclino")while combine all the elements of Air, Land and Sea into a one strategic game that is challenging, fun and aesthetically appealing to the eyes.
+"Battlespace" features stunning visuals that bring the game's world to life. The game's environments range from lush jungle landscapes to barren desert wastelands, and each location is rendered with stunning detail. The game's vehicles are also highly detailed, with realistic animations and sounds that help immerse players in the game's world. We are unleashing the power of the Unreal Engine 5 while combine all the elements of Air, Land and Sea into a one strategic game that is challenging, fun and aesthetically appealing to the eyes.
 
 # Multiplayer:
 
@@ -40,19 +40,19 @@ The timeline is set in current modern times and inspired by current and past eve
 
 <br>
 
-![WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg](files/59f42e8b-d1a0-4d99-b0b6-41ec2258ed01/WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg)
+![WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg]({{ site.baseurl }}/files/59f42e8b-d1a0-4d99-b0b6-41ec2258ed01/WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg)
 
 Phase #1:  Land Warfare modular system, will be the PvP and or PvE, ground base systems for soldiers, vehicles, logistical and individual progression systems.
 
 <br>
 
-![Top-10-advanced-fighter-Aircraft-2020.png](files/d452667e-a769-4bbd-b2b5-5c0897d133fe/Top-10-advanced-fighter-Aircraft-2020.png)
+![Top-10-advanced-fighter-Aircraft-2020.png]({{ site.baseurl }}/files/d452667e-a769-4bbd-b2b5-5c0897d133fe/Top-10-advanced-fighter-Aircraft-2020.png)
 
 Phase #2:  Aerial Warfare modularly system, will be PvP air to air combat game with some of the Maritime Warfare and economy system and Aircraft Carriers' as take off points.&#x20;
 
 <br>
 
-![210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg](files/9007e378-8b84-4646-b047-384d78908eac/210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg)
+![210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg]({{ site.baseurl }}/files/9007e378-8b84-4646-b047-384d78908eac/210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg)
 
 Phase #3: Will be combining all three systems Aerial, Land and Maritime systems together into Multi-Domain Operation (MOD- Warfare) platform game.&#x20;
 
@@ -156,18 +156,18 @@ Real Time Stats (RTS) - (working name) will gather various data from in-game abo
 
 ## Our team
 
-- Director - [SMILOX](<SMILOX 363a2b6d.md?n>)
-- Project Manager- [Wupy](<Wupy 8289afb5.md?n>)
-- &#x20;Quality Control- [Butcher-Ak ](<Butcher-Ak 4486256c.md?n>)
-- Programmers - [Gemesil](<Gemesil 643fe894.md?n>) , [SMILOX](<SMILOX 363a2b6d.md?n>) and [Wupy](<Wupy 8289afb5.md?n>)
-- Community Manager- [Akuma](<Akuma 5b838e5e.md?n>)
+- Director - [Wupy](<Wupy 8289afb5.md?n>)
+- Project Manager - [Wupy](<Wupy 8289afb5.md?n>)
+- Quality Control - [Butcher-Ak ](<Butcher-Ak 4486256c.md?n>)
+- Programmers - [Wupy](<Wupy 8289afb5.md?n>)
+- Community Manager-&#x20; 
 - Cinematics - [Fourleaf](<Fourleaf 625259db.md?n>)
 - Audio - [ArchRevenant](<ArchRevenant deffa1b7.md?n>)
-- Animation - [Wupy](<Wupy 8289afb5.md?n>)
-- 3D Artists -  [EmercomCamper](<EmercomCamper cb665390.md?n>),  and&#x20;
+- Animation -&#x20;
+- 3D Artists -&#x20;
 - 2D Artist -&#x20;
 - Level Design -&#x20;
-- Environment Art - [Butcher-Ak ](<Butcher-Ak 4486256c.md?n>), [Dementula](https://app.nuclino.com/t/b/44a18ed3-f11d-4765-9061-4fddf15b902d?n)
+- Environment Art -&#x20;
 
 <br>
 
