@@ -1,193 +1,404 @@
-![Battlespace\_Title\_Page- 003.png](<{{ site.baseurl }}/files/Battlespace_Title_Page- 003.png>)
+---
+title: Game Overview
+layout: default
+---
 
-# BattleSpace Series
+# BattleSpace - Game Overview
 
-Evolution of an Idea !&#x20;
-
-## Definition:&#x20;
-
-The term "battlespace" generally refers to the physical, digital, and cognitive environments in which military operations take place. It encompasses the entire area in which a military force operates, including land, sea, air, and cyberspace.
-
-Understanding the battlespace is essential for military commanders to effectively plan and execute operations, as well as to identify potential threats and vulnerabilities. This requires a thorough understanding of the capabilities and limitations of both friendly and enemy forces, as well as the terrain, weather, and other environmental factors that may impact the operation.
-
-<br>
-
-## Title: Battlespace - "Warfare"
+**Genre:** Large-Scale Tactical First-Person Shooter  
+**Platform:** PC (Steam)  
+**Engine:** Unreal Engine 5  
+**Target Audience:** 18-35, Core FPS players seeking tactical depth  
+**Player Count:** 32v32 (64 players)  
 
 ---
 
-At Impact Forge we are developing a large-scale open world, multiplayer, strategic shooter game called BattleSpace. A first-person simi-tactical military shooter. Players will have to dominate the enemy on different terrain from 7.6 kilometers up to 450 square kilometer maps of current conflict areas.
-
-"Battlespace" is a multi-faceted military game that combines land, sea, and air combat. In order to emerge victorious in the game, a faction must incapacitate the adversary's capacity to generate military personnel and carry out combat operations. This objective is accomplished through the complete annihilation of all facilities responsible for production.
-
-Players will have to take on a player role of a BLUFOR or OPFOR member who is tasked with leading a variety of missions across different theatres of operation. The game features a range of vehicles, aircrafts, weapons, and equipment. Players will have focus on fast-paced, tactical combat in a variety of environments. Additionally, players will take on a range of military operations, each with different objectives that require different strategies to complete successfully.
-
-Experience the ultimate modern warfare simulation in our action-packed military game. Choose your specialized role, from infantry soldier to fighter pilot or naval commander, and engage in simi-realistic, adrenaline-fueled battles across diverse terrains and environments. Utilize advanced weaponry, cutting-edge technology, and strategic tactics to outsmart and overpower your opponents. With dynamic weather conditions, customizable loadouts, and immersive graphics, you'll feel like you're right in the heart of the action. Whether you're playing solo or with a team, our military game will challenge your skills and keep you on the edge of your seat.
-
-The timeline is set in current modern times and inspired by current and past events worldwide. Our game emerges the players into the three levels of the modern military game: strategic, operational, and tactical. Tactics teach the use of armed forces in engagements, while strategy teaches the use of engagements to achieve the goals of the war. Gameplay is strongly team orientated, communication and tactical base.
-
-# Visuals:
-
-"Battlespace" features stunning visuals that bring the game's world to life. The game's environments range from lush jungle landscapes to barren desert wastelands, and each location is rendered with stunning detail. The game's vehicles are also highly detailed, with realistic animations and sounds that help immerse players in the game's world. We are unleashing the power of the Unreal Engine 5 while combine all the elements of Air, Land and Sea into a one strategic game that is challenging, fun and aesthetically appealing to the eyes.
-
-# Multiplayer:
-
-"Battlespace" features a robust multiplayer mode that allows players to compete against each other in a variety of game modes. The multiplayer mode features a variety of maps and allows players to customize their loadouts and abilities to suit their playstyle.
-
-"Battlespace" is an epic military game that combines land, sea, and air combat. With a range of vehicles, weapons, and equipment, as well as a deep strategic component, the game offers endless hours of exciting gameplay for fans of the genre. With a gripping storyline and stunning visuals, "BattleSpace" is a must-play for any military game enthusiast.
-
-<br>
-
-<br>
-
-![WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg]({{ site.baseurl }}/files/WAL2RRO7JBGB3C4MG4U7EWPYQE.jpg)
-
-Phase #1:  Land Warfare modular system, will be the PvP and or PvE, ground base systems for soldiers, vehicles, logistical and individual progression systems.
-
-<br>
-
-![Top-10-advanced-fighter-Aircraft-2020.png]({{ site.baseurl }}/files/Top-10-advanced-fighter-Aircraft-2020.png)
-
-Phase #2:  Aerial Warfare modularly system, will be PvP air to air combat game with some of the Maritime Warfare and economy system and Aircraft Carriers' as take off points.&#x20;
-
-<br>
-
-![210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg]({{ site.baseurl }}/files/210614-CAEDSWEB-Images-MutliDomainOperations-reduced.jpeg)
-
-Phase #3: Will be combining all three systems Aerial, Land and Maritime systems together into Multi-Domain Operation (MOD- Warfare) platform game.&#x20;
-
-&#x20;
-
-# Concept
-
-## Overview
-
-- **Genre:** Open-world 1st and 3rd Person Shooter / Action / Simi Mil-Sim game
-- **Target audience:**
-  - **Age:** 14-35
-  - **Gender:** Male/Female
-    <br>
-- **Monetization:** Freemium,[ ](https://discord.com/ "Discord - A New Way to Chat with Friends & Communities") with in-game micro-transactions, Premium, Paid Alpha/Beta/Final&#x20;
-- **Platforms & System Requirements:** &#x20;
-  - PC Only&#x20;
-    <br>
-
-# Theme and Setting
-
-### The Basic Fundamentals "MDO\_Warfare":
-
-At the start of the game players will be able to set up their own unit squad size team of 13 Max players within one unit.  All unit members will be able to respawn after death or remain incapacitated until a team medic has revived the player. Players have to select 1 of the 14  roles from The Team House will be able to purchase equipment and vehicles for his teams, build constructable infrastructure that will need to be built and upgraded in order to unlock advance weapons and assets (ie.. armor, vehicles and aircraft) that the team can use to take more territory. &#x20;
-
-At the outset of a mission, a commander's primary duty is to secure a suitable location for the base. While this may be predetermined, it is often random. A strong location must be defensible and possess a flat terrain that allows for the construction of buildings. It is unwise to build structures on uneven ground, as it can impair the movement of troops and equipment.&#x20;
-
-1. Main Power Station
-2. Motor Pool
-3. Hanger
-4. HQ
-5. Communications Center
-6. Research Facilities
-7. Armory
-8. Forward Operating Base (FOB)
-9. Boat **Marina **
-
-<br>
-
-Each player will have their own personal economy system, which they can use to purchase better equipment, weapons, and assets to aid them in the game. This economy is generated by capturing territories, scoring kills, and destroying enemy assets. In addition to this, players can also earn resources by salvaging destroyed vehicles and assets and returning them to their team's motor pool or hangar, or by completing tasks related to capturing towns, cities, or other areas. The size of the captured territory determines the amount of resources the team gains.
-
-Players can build defenses in towns, subject to certain conditions. Only one commander per side is allowed, who is selected at the beginning of the game, and can be voted in or out at any point. Communication, planning, and teamwork will be essential for victory. As players take back territories, they will also need to set up basic infrastructure in each area they gain control of.
-
-<br>
-
-## Warfare Modular System:
-
-![1628262348.jpeg]({{ site.baseurl }}/files/1628262348.jpeg)
-
-## Aerial Warfare
-
-***Aerial Warfare***:  is a variety complex system that encompasses aircraft, helicopters and drones in air combat. Air Combat Maneuvering (also known as ACM or dogfighting) is the tactical art of moving, turning and situating a fighter aircraft in order to attain a position from which an attack can be made on another aircraft. It relies on offensive and defensive Basic Fighter Maneuvering (BFM) to gain an advantage over an aerial opponent.
-
-<br>
-
-![1120\_Tirpak\_001\_F15EX.jpg]({{ site.baseurl }}/files/1120_Tirpak_001_F15EX.jpg)
-
-<br>
-
-## Land Warfare:
-
-*Land warfare:*  or ground warfare is the process of military operations eventuating in combat that takes place predominantly on the battlespace land surface of the planet by the use of large numbers of combat personnel employing a diverse set of combat skills, methods and a wide variety of weapon systems and equipment, conducted in diverse terrains and weather environments.
-
-<br>
-
-![image.jpeg]({{ site.baseurl }}/files/image.jpeg)
-
-<br>
-
-## Maritime Warfare
-
-*Maritime Warfare*: is combat in and on the sea, the ocean, or any other battlespace involving a major body of water such as an oceans, large lakes or wide rivers.
-
-![ship-communications-1024x576.jpg]({{ site.baseurl }}/files/ship-communications-1024x576.jpg)
-
-<br>
-
-Although the game's geographic setting remains largely accurate, it incorporates elements of realistic combined arms tactics on expansive battlefields, as well as simulations of smaller Close Quarters Battle (CQB) and asymmetrical warfare scrimmage taking place across the globe. These scenarios can be set in various times and weather conditions.
-
-## Factors of Winning
-
-One side must destroy the other side the capability of being combat effective. This is done by disrupting and destroying the other teams power grid, equipment and their military asset, including all construction facilities build by the other teams Commander.
-
-# Live Stats
-
-Real Time Stats (RTS) - (working name) will gather various data from in-game about what players do in game. This data can offer value to players, tactics planners, map makers, modders, server admins. Heat maps can track and record game for group to see how game flow develop throughout all play time.
-
-# Game Modes: &#x20;
-
-1. Multi-Domain Operation (MDO-Warfare) - Large-scale full-size maps with combined arms with an economy system.&#x20;
-2. Fortification (FO) - Large-scale, full-size maps with combined arms tactics.&#x20;
-3. Capture & Hold (CH) - Medium size maps, random selected capture points with combined arms tactics.&#x20;
-4. Extraction (EX) - Smaller maps, infantry and mechanized base tactics for E\&E. &#x20;
-   <br>
-
-<br>
-
-&#x20;Learn more about the [Land Locations]({{ site.baseurl }}/docs/levels/land-locations), [Story]({{ site.baseurl }}/docs/narrative/story), and [The Team House "Characters"]({{ site.baseurl }}/docs/narrative/characters) of the game.
-
-# Project scope
-
-## Our team
-
-- Director - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
-- Project Manager - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
-- Quality Control - [Butcher-Ak ]({{ site.baseurl }}/docs/characters/butcher-ak)
-- Programmers - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
-- Community Manager-&#x20; 
-- Cinematics - [Fourleaf]({{ site.baseurl }}/docs/characters/fourleaf)
-- Audio - [ArchRevenant]({{ site.baseurl }}/docs/characters/arch-revenant)
-- Animation -&#x20;
-- 3D Artists -&#x20;
-- 2D Artist -&#x20;
-- Level Design -&#x20;
-- Environment Art -&#x20;
-
-<br>
-
-## Budget
-
-| **Spend Type**     | **Planned**                         |
-| ------------------ | ----------------------------------- |
-| $57,527.27  To-Date | $4,000,000.00 - Startup Target Goal |
-|                    |                                     |
-
-## Timeline
-
-- Date-  Basic Map - Controller Setup
-- Date-  Main Menu with Custom Widgets&#x20;
-- Date - Added first list of Characters&#x20;
-- Date - Added first list of Vehicle Asset
-- Date - Testing of  Economy System&#x20;
+## Core Vision
+
+BattleSpace is a tactical FPS that combines realistic combined arms warfare with strategic resource management. Players engage in large-scale 32v32 battles where **monetary management is as critical as combat effectiveness**. 
+
+The game emphasizes:
+- **Squad-based coordination** over lone-wolf gameplay
+- **Economic warfare** alongside kinetic combat
+- **Territory control** with persistent consequences
+- **Combined arms tactics** (infantry, vehicles, air support)
+- **Realistic ballistics** with accessible controls
 
 ---
 
-<br>
+## Game Mode: Capital Warfare
 
-<br>
+### Overview
+
+Capital Warfare is an economy-driven team vs team game mode where victory is achieved through either:
+1. **Economic Victory:** Accumulate $1,000,000 in team capital
+2. **Economic Defeat:** Bankrupt the enemy team (reduce to $0)
+
+### Core Loop
+
+**Capture Territory → Generate Income → Purchase Assets → Destroy Enemy Assets → Weaken Enemy Economy**
+
+Players must balance offensive operations with resource preservation. Every death, destroyed vehicle, and lost capture point directly impacts team capital.
+
+### Match Flow
+
+**Phase 1: Early Game (0-15 minutes)**
+- Teams spawn with $10,000 starting capital
+- Capture initial territory for resource generation
+- Light infantry engagements with basic equipment
+- Establish forward operating bases (FOBs)
+
+**Phase 2: Mid Game (15-45 minutes)**
+- Economy scaling through territory control
+- Vehicle warfare introduction (APCs, light armor)
+- Infrastructure building (ammo caches, repair stations)
+- Strategic asset denial (destroy enemy supply lines)
+
+**Phase 3: Late Game (45+ minutes)**
+- Heavy assets deployed (MBTs, attack helicopters)
+- Full combined arms warfare
+- High-stakes engagements (asset losses hurt economy)
+- Victory conditions within reach for dominant team
+
+---
+
+## Core Gameplay Pillars
+
+### 1. Combined Arms Warfare
+
+**Infantry Combat:**
+- Terminal ballistics simulation (bullet drop, penetration, ricochet)
+- Locational damage system (head, torso, limbs)
+- Squad-based tactics (6-player squads)
+- Role specialization (medic, engineer, marksman, etc.)
+
+**Vehicle Combat:**
+- Ground vehicles: Jeeps, APCs, IFVs, MBTs
+- Aerial support: Helicopters, close air support
+- Component damage (tracks, engine, turret)
+- Logistics vehicles (supply, repair, medical)
+
+**Support Systems:**
+- Commander abilities (UAV recon, artillery strikes)
+- Engineer fortifications (sandbags, HESCOs, emplacements)
+- Medical system (bandage, revive, heal)
+- Supply chain (ammunition, fuel, repairs)
+
+### 2. Strategic Economy
+
+**Income Sources:**
+- Territory control: $50/minute per sector
+- Enemy kills: $25 per elimination
+- Vehicle destruction: $50-$500 (based on value)
+- Objective completion: $100-$500
+
+**Expenditures:**
+- Equipment upgrades: $100-$500
+- Vehicle spawns: $500-$25,000
+- Infrastructure: $50-$500 per structure
+- Respawn costs: $25 per death
+
+**Economic Strategy:**
+- Aggressive expansion generates income but risks losses
+- Defensive play preserves assets but limits growth
+- Asset denial prevents enemy economy growth
+- Risk vs. reward in every engagement
+
+### 3. Territory Control
+
+**Capture Mechanics:**
+- 9 capture zones per map (3x3 grid)
+- 50m capture radius per zone
+- 1% capture progress per second per player (max 5 players)
+- Contested zones halt all progress
+- Neutralization required before enemy capture
+
+**Territory Benefits:**
+- Passive income generation
+- Spawn point access (rally points, FOBs)
+- Infrastructure building zones
+- Strategic map control
+
+**Dynamic Frontlines:**
+- Territory changes create shifting battle lines
+- Supply lines can be cut off
+- Rear areas vulnerable to flanking
+- Map control provides tactical advantage
+
+---
+
+## Player Roles
+
+BattleSpace features **6 core infantry roles**, each with distinct responsibilities and equipment:
+
+### Squad Leader
+- **Responsibilities:** Command 6-player squad, place rally points, coordinate with commander
+- **Equipment:** Assault rifle, smoke grenades, binoculars, radio
+- **Abilities:** Deploy rally point (mobile spawn), mark objectives, request support
+- **Playstyle:** Tactical leadership, positioning, communication
+
+### Rifleman
+- **Responsibilities:** Standard infantry, versatile combatant, backbone of squad
+- **Equipment:** Assault rifle, frag grenades, extra ammunition
+- **Abilities:** No special abilities (fundamental role)
+- **Playstyle:** Frontline combat, objective assault, area denial
+
+### Medic
+- **Responsibilities:** Heal wounded, revive incapacitated, maintain squad effectiveness
+- **Equipment:** Carbine, medical supplies (bandages, epinephrine, morphine), smoke grenades
+- **Abilities:** Heal teammates, revive incapacitated players, deploy MASH tent
+- **Playstyle:** Support, backline positioning, triage priorities
+
+### Automatic Rifleman
+- **Responsibilities:** Suppressive fire, area denial, covering fire for squad
+- **Equipment:** Light machine gun, bipod, reduced ammunition capacity
+- **Abilities:** Sustained suppressive fire, bipod deployment for accuracy
+- **Playstyle:** Support by fire, defensive positions, suppression
+
+### Breacher
+- **Responsibilities:** Close-quarters combat, building clearing, explosive breaching
+- **Equipment:** Shotgun/SMG, breaching charges, flashbangs
+- **Abilities:** Explosive breaching, CQB specialist
+- **Playstyle:** Urban warfare, building clearance, point man
+
+### Marksman
+- **Responsibilities:** Long-range precision fire, reconnaissance, target elimination
+- **Equipment:** Designated marksman rifle, rangefinder, limited ammunition
+- **Abilities:** Long-range engagement (300-600m), reconnaissance spotting
+- **Playstyle:** Overwatch, flanking positions, high-value target elimination
+
+---
+
+## Setting & Theaters
+
+### Primary Theater: Ukraine
+
+**Odessa Oblast** (Launch Map)
+- Coastal terrain with mixed urban/rural zones
+- 4km² playable area divided into 9 sectors
+- Strategic port facilities, industrial zones, residential areas
+- Varied engagement ranges (CQB to 600m)
+
+**Future Ukrainian Theaters:**
+- Crimean Oblast (naval/amphibious operations)
+- Kyiv Oblast (urban warfare)
+- Donetsk Oblast (industrial combat)
+- Kharkiv Oblast (multi-axis operations)
+
+### Post-Launch Theaters
+
+**Maritime Operations:**
+- Barents Sea (arctic warfare, naval assets)
+- South China Sea (carrier operations, island warfare)
+- Falkland Islands (amphibious assault, remote logistics)
+
+**Additional Theaters:**
+- Alaska (cold weather operations, extended supply lines)
+- Poland (NATO operations, multi-national forces)
+- Taiwan (island defense, urban combat)
+- Kashmir (mountain warfare, high altitude)
+
+---
+
+## Technical Features
+
+### Graphics & Performance
+
+**Unreal Engine 5 Features:**
+- Nanite virtualized geometry (high-detail environments)
+- Lumen global illumination (dynamic lighting)
+- World Partition streaming (large open worlds)
+- Chaos physics & destruction (realistic damage)
+
+**Performance Targets:**
+- 60 FPS @ 1080p (minimum spec)
+- 100+ FPS @ 1440p (recommended spec)
+- 30 tick rate servers (33ms tick)
+- <80ms average latency
+
+### Networking
+
+**Server Architecture:**
+- Dedicated servers (no peer-to-peer)
+- 64-player capacity (32v32)
+- Client-side prediction & server reconciliation
+- Lag compensation for hit detection
+- Anti-cheat integration (Easy Anti-Cheat)
+
+**Replication Optimization:**
+- 10 Hz character updates (infantry)
+- 15 Hz vehicle updates (fast-moving objects)
+- 8-12 KB/s bandwidth per player
+- Dynamic LOD based on distance
+
+### Audio
+
+**3D Positional Audio:**
+- Realistic weapon sounds (suppression, distance falloff)
+- Environmental audio (wind, vehicle engines, explosions)
+- VOIP integration (local and squad radio)
+- Proximity-based enemy detection (footsteps, voice)
+
+---
+
+## Progression & Monetization
+
+### Progression System
+
+**Player Statistics Tracking:**
+- Kill/Death/Assist ratios
+- Accuracy metrics (overall, headshot percentage)
+- Role-specific stats (revives, repairs, captures)
+- Win/loss records per game mode
+- Capital earned/spent tracking
+
+**Stat-Based Rewards:**
+- Cosmetic unlocks tied to milestones
+- Profile customization (banners, badges)
+- Leaderboards (global, friends, regional)
+- Seasonal rewards
+
+### Monetization Strategy
+
+**Base Game:** $19.99 (Steam Early Access)
+
+**Revenue Streams:**
+- **Cosmetic DLC:** Weapon skins, character customization, vehicle camos
+- **Battle Pass:** Seasonal content with free and premium tiers
+- **Premium Features:** Advanced stat tracking, extended match history
+- **Future Expansions:** New theaters, factions, vehicles (post-launch)
+
+**No Pay-to-Win:**
+- All gameplay-affecting content free
+- Cosmetics only monetization
+- No loot boxes or gambling mechanics
+- Transparent pricing
+
+---
+
+## Development Roadmap
+
+### Phase 1: MVP Launch (Month 12)
+- Single map (Odessa Oblast)
+- 6 core roles
+- Capital Warfare mode
+- Basic vehicles (jeeps, APCs)
+- Essential infrastructure
+
+### Phase 2: Content Expansion (Months 13-18)
+- Second map
+- Additional weapons (2 per role)
+- Light vehicle combat
+- Enhanced commander abilities
+
+### Phase 3: Combined Arms (Months 19-24)
+- Heavy vehicles (MBTs)
+- Attack helicopters
+- Advanced fortifications
+- Additional theaters
+
+---
+
+## Competitive & Community
+
+### Competitive Features
+
+**Ranked Mode (Post-Launch):**
+- Skill-based matchmaking (ELO system)
+- Seasonal rankings with rewards
+- Competitive rulesets (standardized economy)
+- Leaderboards and tournaments
+
+**Clan System:**
+- Clan creation and management
+- Clan vs. clan matches
+- Clan statistics tracking
+- Private servers for scrimmages
+
+### Community Tools
+
+**Server Browser:**
+- Custom server hosting
+- Community-run servers
+- Modifiable rules (economy multipliers, ticket counts)
+- Private password-protected matches
+
+**Replay System (Post-Launch):**
+- Match recording and playback
+- Free camera spectator mode
+- Statistics analysis
+- Highlight clip creation
+
+---
+
+## Why BattleSpace?
+
+### Unique Selling Points
+
+**1. Economic Warfare Layer**
+- No other tactical FPS ties economy directly to victory conditions
+- Every tactical decision has strategic consequences
+- High-stakes engagements with meaningful resource costs
+
+**2. Grid-Based Territory System**
+- Persistent territory control between engagements
+- Dynamic frontlines that shift based on performance
+- Strategic depth beyond simple kill/death gameplay
+
+**3. Terminal Ballistics**
+- Realistic bullet physics (drop, penetration, fragmentation)
+- Differentiates from arcade shooters
+- Rewards skill and tactical positioning
+
+**4. Combined Arms at Scale**
+- 32v32 player count allows true combined arms
+- Infantry, vehicles, air support working together
+- Squad coordination and teamwork essential
+
+**5. Accessible Mil-Sim**
+- Tactical depth without excessive simulation complexity
+- Quick-to-learn, difficult-to-master
+- Engaging for casual and hardcore players
+
+---
+
+## Target Audience
+
+**Primary Audience:**
+- Age: 18-35
+- FPS enthusiasts seeking tactical depth
+- Fans of: Squad, Hell Let Loose, Battlefield (hardcore modes)
+- PC gamers with mid-to-high-end systems
+
+**Secondary Audience:**
+- Mil-sim community (Project Reality, ARMA)
+- Strategy gamers interested in FPS/RTS hybrid gameplay
+- Competitive FPS players looking for team-based play
+
+**Community Focus:**
+- Discord integration for voice and community
+- Active developer communication
+- Community feedback incorporation
+- Modding support (post-launch)
+
+---
+
+## Vision Statement
+
+*"BattleSpace delivers the tactical depth of a military simulator with the accessibility and polish of a modern FPS. Every bullet, every vehicle, and every decision matters in a persistent conflict where economic and military victory are intertwined. This is warfare where your squad's coordination, your team's strategy, and your individual skill determine who controls the battlespace."*
+
+---
+
+## Document Information
+
+**Version:** 2.0  
+**Last Updated:** November 2025  
+**Status:** MVP Development (12-month roadmap)  
+**Target Launch:** Q4 2025 (Steam Early Access)
+
+---
+
+For detailed gameplay mechanics, see [Core Mechanics]({{ site.baseurl }}/docs/gameplay/mechanics).  
+For development timeline, see [Lean GDD]({{ site.baseurl }}/docs/battlespace-lean-gdd).  
+For marketing strategy, see [Marketing Plan]({{ site.baseurl }}/docs/battlespace-marketing-strategy).
+

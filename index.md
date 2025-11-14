@@ -19,14 +19,22 @@
 - [Economy System]({{ site.baseurl }}/docs/gameplay/economy-system)
 - [Medical System]({{ site.baseurl }}/docs/gameplay/medical-system)
 - [Construction & Fortifications]({{ site.baseurl }}/docs/gameplay/construction-function)
-- [Player Stats System]({{ site.baseurl }}/docs/gameplay/player-stats-tracking.md)
+- [Player Stats System]({{ site.baseurl }}/docs/gameplay/player-stats-tracking)
 
-### Combat
-- [Land Warfare]({{ site.baseurl }}/docs/combat/land-warfare)
-- [Aerial Warfare]({{ site.baseurl }}/docs/combat/aerial-warfare)
-- [Maritime Warfare]({{ site.baseurl }}/docs/combat/maritime-warfare)
-- [Extraction Missions]({{ site.baseurl }}/docs/combat/extraction)
-- [Fortification Systems]({{ site.baseurl }}/docs/combat/fortification)
+### Combat Release
+1. [Land Warfare]({{ site.baseurl }}/docs/combat/land-warfare)
+2. [Aerial Warfare]({{ site.baseurl }}/docs/combat/aerial-warfare)
+3. [Maritime Warfare]({{ site.baseurl }}/docs/combat/maritime-warfare)
+
+## Gamemodes
+- [Extraction]({{ site.baseurl }}/docs/gamemode/extraction)
+- [Fortification]({{ site.baseurl }}/docs/gamemode/fortification)
+- [Capital-Warfare]({{ site.baseurl }}/docs/gamemode/capital-warfare)
+- [Multi-Domain Operations (MDO)]({{ site.baseurl }}/docs/gamemode/multi-domain-operation)
+- [Supply Line Sabotage]({{ site.baseurl }}/docs/gamemode/supply-line-sabotage)
+- [Contamination Zone]({{ site.baseurl }}/docs/gamemode/contamination-zone)
+- [Evasion & Containment]({{ site.baseurl }}/docs/gamemode/evasion-containment)
+- [Frontline]({{ site.baseurl }}/docs/gamemode/frontline)
 
 ---
 
@@ -128,7 +136,7 @@
 - [The Team House (Characters)]({{ site.baseurl }}/docs/narrative/characters)
 - [Factions]({{ site.baseurl }}/docs/narrative/factions)
 
-### Characters
+### Developers
 - [ArchRevenant]({{ site.baseurl }}/docs/characters/arch-revenant)
 - [Butcher-Ak]({{ site.baseurl }}/docs/characters/butcher-ak)
 - [Wupy]({{ site.baseurl }}/docs/characters/wupy)
