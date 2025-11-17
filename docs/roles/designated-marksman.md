@@ -8,10 +8,79 @@ Is a soldier trained in precision shooting over a long distance, has the skills 
 
 ![DDM2.jpg]({{ site.baseurl }}/files/DDM2.jpg)
 
+# Loadout
+
+- **Primary Weapon:** Designated Marksman Rifle (DMR) - SR-25, SVD, Mk12 SPR, etc.
+  - Magnified optic (4x-6x scope)
+  - Bipod equipped
+- **Ammunition:** 8-10 magazines (20 rounds per mag = 160-200 rounds total)
+  - Match-grade ammunition for improved accuracy
+- **Secondary Weapon:** Sidearm for close defense
+- **Equipment:** 2x Smoke Grenades (no frags - focus on precision)
+- **Special Equipment:** Rangefinder, binoculars for observation
+- **Bandages:** 3x Field Dressings
+
+# Squad Limitations
+
+- **Maximum 1 per squad** - Specialized precision role
+- Works within squad, not independently like snipers
+
 # Special Abilities
 
-Able to engages targets from positions of concealment or at distances exceeding the target's detection capabilities. Snipers generally have specialized training and are equipped with high-precision rifles and high-magnification optics, and often also serve as scouts/observers feeding tactical information back to their unit's Squad Leaders, Team Leaders or Commanders.&#x20;
+The Designated Marksman bridges the gap between standard rifleman and long-range sniper, providing precision fire within the squad:
 
-# Disadvantages:
+**Precision Engagement:**
+- **Extended Range:** Effective engagement 300-800m
+- **Target Elimination:** Neutralize high-value targets (enemy leaders, specialists, machine gunners)
+- **First Shot Accuracy:** Superior accuracy at range compared to assault rifles
+- **Penetration:** DMR rounds can penetrate light cover and body armor more effectively
 
-Most of the time they are working deep behind enemy lines and working is small 1-to-2-man teams. Support is unlikely if teams get into a Tic with the enemy.
+**Reconnaissance & Observation:**
+- **Overwatch:** Provide security and observation for squad movements
+- **Scout Role:** Feed tactical intelligence to Squad Leader
+- **Target Designation:** Identify and mark priority threats
+- **Counter-Sniper:** Detect and engage enemy snipers/marksmen
+
+**Support Fire:**
+- **Bipod Deployment:** Stabilized shooting position for maximum accuracy
+- **Suppression:** Accurate fire pins enemy more effectively than spray
+- **Defensive Anchor:** Hold flanks or overwatch positions
+
+# Advantages
+
+- **Long-Range Precision:** Most accurate squad role at 300-800m
+- **High-Value Target Elimination:** Can remove enemy specialists and leaders
+- **Penetration Power:** DMR rounds defeat cover and armor better than rifles
+- **Observation Tools:** Rangefinder and optics provide enhanced battlefield awareness
+- **Versatile Range:** Effective from medium to long range
+- **Squad Integration:** Unlike snipers, works directly with squad
+- **Quick Follow-Up Shots:** Semi-auto allows rapid engagement of multiple targets
+
+# Disadvantages
+
+- **Limited Ammunition:**
+  - Only 160-200 rounds (vs 240-300 for Rifleman)
+  - 20-round magazines deplete quickly in sustained fire
+  - Cannot waste ammunition on suppression
+- **Poor Close Combat:**
+  - DMR is long and unwieldy in CQB
+  - Slow handling in buildings and tight spaces
+  - Must rely on sidearm for close encounters
+- **Weight Penalty:**
+  - 10% slower movement than Rifleman
+  - DMR and ammunition is heavier than standard rifle
+- **Weapon Handling:**
+  - Slower ADS time than assault rifles
+  - Longer weapon makes it harder to maneuver in cover
+- **Position Dependency:**
+  - Most effective from static, covered positions
+  - Needs range to exploit weapon advantages
+  - Less effective in close/urban environments
+- **Exposure Time:**
+  - Precision shooting requires exposure to aim
+  - Longer time on target than spray-and-pray
+- **Squad Pace Conflict:**
+  - Works best at distance while squad may need to push forward
+  - Can fall behind during rapid advances
+- **Ammunition Management:** Cannot share ammo with most squad members (different caliber)
+- **No Fragmentation Grenades:** Limited ability to clear rooms or bunkers
