@@ -46,6 +46,93 @@ Commanders will have an array of different assets and strike packages that they 
 
 ![Green-Single-Screen-UAV-GCS.png]({{ site.baseurl }}/files/Green-Single-Screen-UAV-GCS.png)
 
-# Disadvantages:
+# Loadout
 
-Player will need to have radio man class or one of the vehicles that has the proper radio in order to call in AI air-assets or for manned aircraft assets as well.  Requires the player to have an ultra-high level of multitasking and attention to the progression of the battle, combine with knowing and directing where each of his units and asset are on the map. Game can be won or loss pending the quality of the commander and his knowledge of the tactics.&#x20;
+- **Primary Weapon:** Sidearm only (pistol)
+- **Ammunition:** 4 pistol magazines
+- **Equipment:** Binoculars, Map, Command Tablet/Interface
+- **No Combat Equipment** - Commanders should not be on front lines
+- **Bandages:** 2x Field Dressings
+
+# Team Limitations
+
+- **One per team** - Supreme command authority
+- **Most demanding role** - Practice extensively before playing multiplayer
+- **Match-deciding role** - Team success heavily dependent on Commander quality
+
+# Strategic Command Abilities
+
+**Squad Coordination:**
+- Direct up to 9 Squad Leaders simultaneously
+- Issue strategic orders and coordinate multi-squad operations
+- Monitor all squad positions and status in real-time
+
+**Asset Allocation:**
+- Distribute resources to squad motor pools and hangars
+  - Armor vehicles (tanks, IFVs, APCs)
+  - Transport vehicles
+  - Aircraft allocation
+- Manage team economy and resource generation from captured objectives
+
+**Resource Management:**
+- Gain resources from capturing and holding objectives
+- Spend resources on vehicles, aircraft, and support assets
+- Balance supply distribution across squads based on need
+
+# Advantages
+
+- **Supreme Authority:** Command entire team and all assets
+- **Strategic View:** Enhanced map showing all friendly forces and intel
+- **Asset Control:** Allocate armor, vehicles, and aircraft to squads
+- **Fire Support Arsenal:** Access to artillery, air strikes, and UAVs
+- **Resource Management:** Control team economy and asset distribution
+- **Intelligence Network:** See all Squad Leader reports and reconnaissance
+- **Force Multiplier:** Good Commander increases team effectiveness exponentially
+- **Victory Impact:** Skilled Commander can turn battles decisively
+
+# Disadvantages
+
+- **Overwhelming Responsibility:**
+  - Success or failure of entire team rests on your decisions
+  - Must manage 9 squads (up to 81 players) simultaneously
+  - Coordinate multiple ongoing operations across the map
+  - Balance base management, resource allocation, and tactical support
+- **Ultra-High Multitasking:**
+  - Monitor squad positions and status constantly
+  - Track all friendly assets (vehicles, aircraft, infantry)
+  - Watch enemy movements and threats
+  - Coordinate fire support requests from multiple squads
+  - Manage base construction and defenses
+- **Communication Overload:**
+  - Receive requests from multiple Squad Leaders simultaneously
+  - Must prioritize conflicting needs and limited resources
+  - Coordinate with pilots and vehicle crews
+  - Process intelligence reports while directing operations
+- **Minimal Combat Capability:**
+  - Only armed with sidearm - cannot effectively fight
+  - Should never be on front lines
+  - If forced into combat, nearly defenseless
+  - Must rely entirely on guards/protection
+- **Radio Dependency:**
+  - Requires Radio Man nearby OR command vehicle for AI air asset calls
+  - Without radio support, cannot coordinate manned aircraft
+  - Limited effectiveness if communication network disrupted
+- **Learning Curve:**
+  - Extremely complex role requiring extensive practice
+  - Must understand all game mechanics and tactics
+  - Poor Commanders cause team to lose badly
+  - **Mandatory practice in single-player before multiplayer**
+- **Static Position:**
+  - Usually operates from command post/vehicle
+  - Limited mobility due to command duties
+  - Disconnected from ground combat reality
+  - May not see tactical situations Squad Leaders face
+- **Resource Scarcity:**
+  - Never enough resources to satisfy all requests
+  - Must make difficult prioritization decisions
+  - Squads may blame Commander for lack of support
+- **Team Dependency:**
+  - Effectiveness relies on Squad Leaders following orders
+  - Cannot control individual soldiers directly
+  - Dependent on competent Squad Leaders
+- **Match-Deciding Pressure:** Entire team's victory depends on your performance

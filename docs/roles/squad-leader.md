@@ -8,16 +8,57 @@
 
 ![PMC 8.PNG]({{ site.baseurl }}/files/PMC 8.PNG)
 
+# Loadout
+
+- **Primary Weapon:** Standard issue assault rifle with optics (ACOG/Holo sight)
+- **Ammunition:** 7 magazines (210 rounds total)
+- **Equipment:** 2x Smoke Grenades (no frags - must focus on leadership)
+- **Special Equipment:** Binoculars, Map & Compass, Squad Radio
+- **Bandages:** 3x Field Dressings
+
+# Squad Limitations
+
+- **One per squad** (Maximum 9 squads per team)
+- **Required role** - Cannot create a squad without a Squad Leader
+
 # Special Abilities
 
-They control the tempo and the pace of the fight, how they interact with their Soldiers, and how they work with their team leaders. Direct comms to the Commander. Their abilities to set Rally Points (RP), Object Rally Points (ORP), Mark Targets locations, call for fires and call-in airdrops for Re-supplies. Squad leaders will also be able to set team spawn point on the map.&#x20;
+Squad Leaders are the tactical center of the battlefield, controlling tempo and pace of combat. They are the critical link between Commander and ground forces:
 
-<br>
+**Command & Control:**
+- **Direct Commander Communication:** Can request fire support, supply drops, and vehicle assets
+- **Mark Targets:** Designate priority targets visible to entire squad and Commander
+- **Squad Orders:** Issue movement and engagement orders to Team Leaders
+- **Promote Team Leaders:** Designate fireteam leaders within squad
 
-&#x20;Deployables:&#x20;
+**Deployables:**
+- **Rally Spawn Point (RSP):** Mobile forward spawn (max 2 active, 60-second cooldown)
+  - Can be overrun if enemies within 50m radius
+  - Requires 60 seconds to build
+  - Squad members can spawn on RSP
+- **Observation Post Marker:** Mark strategic positions for Commander intelligence
 
-1. **Rally Spawn Point (RSP)** - Mobile spawn point that can be trip if enemy is near.&#x20;
+**Fire Support Requests:**
+- Request Artillery Strike (requires Radio Man nearby or vehicle radio)
+- Request Supply Drop (requires Radio Man nearby or vehicle radio)
+- Request Smoke Screen for advances
+- Request Reconnaissance UAV coverage
 
-# Disadvantages:&#x20;
+# Advantages
 
-Requires the player to have a high level of multitasking and attention to the progression of battle as a whole on the map. Game can be won or loss pending the quality of the squad leader.&#x20;
+- **Squad Spawn Point:** Can deploy Rally Points for squad respawns
+- **Direct Commander Line:** Access to fire support and strategic assets
+- **Enhanced Map View:** See all friendly positions and Commander markers
+- **Leadership Markers:** Can mark targets and objectives visible to whole team
+- **Squad Building:** Can recruit and organize up to 9 squad members
+
+# Disadvantages
+
+- **High Responsibility:** Squad effectiveness depends entirely on your decisions
+- **Priority Target:** Easily identified by enemy, high-value kill
+- **Limited Combat Focus:** Must balance fighting with map awareness and communication
+- **Reduced Ammunition:** Less ammo than Rifleman due to equipment weight
+- **No Fragmentation Grenades:** Must rely on squad for explosive ordinance
+- **Radio Dependency:** Requires Radio Man nearby for most support requests (unless in radio-equipped vehicle)
+- **Spawn Point Vulnerability:** Rally Points can be destroyed or overrun by enemy
+- **Multitasking Demand:** Must coordinate squad, communicate with Commander, and fight simultaneously
