@@ -297,12 +297,26 @@ layout: default
 
 ### 7.1 Resource Generation
 
-**Income Sources:**
-- Territory control: $50 per minute per sector controlled
-- Enemy kills: $25 per enemy eliminated
+**Income Sources (Reward-Focused):**
+- Enemy kill: $25
+- Kill assist: $15
+- Territory capture: $50 per player
+- Territory defense: $25 (kill within 50m of friendly point)
 - Vehicle destruction: $50-$500 (based on vehicle value)
+- Revive teammate: $20
+- Resupply teammate: $15
+- Repair vehicle: $10 per 25 HP repaired
+- Spotting assist: $10 (enemy you spotted gets killed)
+- Squad order completion: $50
+- Territory control: $50 per minute per sector controlled
 - Objective completion: $100-$500 (based on objective importance)
 - Resource extraction: Variable income from captured industrial sites
+
+**Performance Bonuses:**
+- 3 kill streak: +$25 bonus
+- 5 kill streak: +$50 bonus
+- 10 kill streak: +$100 bonus + team announcement
+- Role performance bonuses (Medic: 5 revives = $100, Engineer: 500 HP repairs = $100, etc.)
 
 **Team Economy:**
 - Starting capital: $10,000 per team
@@ -313,14 +327,19 @@ layout: default
 
 ### 7.2 Expenditures
 
+**Death Cost:**
+- Flat respawn cost: $25 (no escalation)
+- Equipment persistent until death (purchased loadouts don't need repurchasing unless you die)
+
 **Equipment Costs:**
 - Standard loadout: $0 (free)
 - Upgraded weapons: $100-$500
 - Armor plates: $150
 - Grenades: $25 each
 - Medical supplies: $50
+- Insurance (50% refund on death): $50 (for loadouts $300+)
 
-**Vehicle Costs:**
+**Vehicle Costs (Base):**
 - Light transport: $500
 - Armed jeep: $1,500
 - APC: $5,000
@@ -328,11 +347,98 @@ layout: default
 - MBT: $15,000
 - Attack helicopter: $25,000
 
+**Vehicle Upgrade Tiers:**
+- Tier 1 (Improved): +$2,000 (25% armor, improved optics)
+- Tier 2 (Advanced): +$5,000 (50% armor, APS, enhanced weapon)
+- Tier 3 (Elite): +$10,000 (75% armor, advanced APS, best weapon, thermals)
+
+**Note:** Vehicle costs may increase based on demand (dynamic pricing) to prevent meta-spam of single vehicle types.
+
 ---
 
-## 8. Input Mapping
+## 8. Player Progression System
 
-### 8.1 Default Keybinds
+### 8.1 Experience and Unlocks
+
+**Experience Point (XP) System:**
+- Players earn XP through gameplay actions
+- XP unlocks weapons, vehicles, and equipment
+- All unlocks are cosmetic or horizontal progression (no pay-to-win)
+
+**XP Sources:**
+- Kill: 100 XP
+- Assist: 50 XP
+- Capture Point: 200 XP
+- Revive: 75 XP
+- Repair Vehicle: 50 XP
+- Squad Orders: 100 XP
+- Victory: 500 XP
+
+**Unlock Tiers:**
+
+| Level | Total XP | Unlocks |
+|---|---|---|
+| 1 | 0 | Basic weapons & vehicles |
+| 5 | 5,000 | Tier 2 weapons (scopes, DMRs) |
+| 8 | 10,000 | Light armor vehicles |
+| 10 | 15,000 | Tier 3 weapons (LMGs, launchers) |
+| 12 | 20,000 | IFVs, attack helicopters |
+| 15 | 30,000 | Tier 4 weapons (advanced optics) |
+| 16 | 35,000 | Main battle tanks |
+| 20 | 50,000 | Elite weapons & fighter aircraft |
+
+### 8.2 Role Performance Unlocks
+
+**Role Mastery System:**
+Players unlock specialized equipment by performing role-specific actions:
+
+**Medic Example:**
+- 0 revives: Basic medkit
+- 50 revives: Advanced medkit (faster healing)
+- 100 revives: Defibrillator (revive from longer distances)
+- 250 revives: Field surgery kit (revive with more HP)
+
+**Anti-Tank Example:**
+- 0 vehicle kills: RPG-7 (basic launcher)
+- 10 vehicle kills: M136 AT4 (faster reload)
+- 25 vehicle kills: Javelin (top-attack capability)
+- 50 vehicle kills: TOW launcher (wire-guided)
+
+**Note:** Full progression details in `/docs/gameplay/feedback-responses-and-improvements.md`
+
+### 8.3 Tutorial and Onboarding
+
+**Progressive Tutorial System:**
+
+**Stage 1: Basic Training (Required)**
+- Movement, shooting, communication basics
+- ~10 minutes
+- Required before multiplayer access
+
+**Stage 2-3: Role & Vehicle Training (Optional)**
+- Role-specific tutorials (medic, engineer, SL, AT)
+- Vehicle operation tutorials (driving, IFV, tank, helicopter)
+- Each tutorial rewards +500-1000 XP
+- 5-10 minutes each
+
+**Context-Sensitive Help:**
+- In-game tooltips for new mechanics
+- Video demonstrations (<15 seconds) on hover
+- "Don't show again" option for experienced players
+
+**Mentor System:**
+- New players (Level <5) marked with [NEW] tag
+- Experienced players (Level 15+) can volunteer as mentors
+- Mentors earn bonus XP for helping new players succeed
+- Automatic squad matching for new players with mentors
+
+**Note:** Full tutorial and learning systems detailed in `/docs/gameplay/feedback-responses-and-improvements.md`
+
+---
+
+## 9. Input Mapping
+
+### 9.1 Default Keybinds
 
 **Movement:**
 - W - Forward
@@ -370,9 +476,9 @@ layout: default
 
 ---
 
-## 9. Performance Requirements
+## 10. Performance Requirements
 
-### 9.1 Network Optimization
+### 10.1 Network Optimization
 
 **Replication Settings:**
 - Infantry character update rate: 10 Hz (10 updates per second)
@@ -385,7 +491,7 @@ layout: default
 - Packet rate: 30 packets per second
 - Lag compensation: Up to 150ms client latency
 
-### 9.2 CPU/GPU Targets
+### 10.2 CPU/GPU Targets
 
 **Client Performance:**
 - Target: 60 FPS @ 1080p
@@ -401,7 +507,7 @@ layout: default
 
 ---
 
-## 10. Future Expansion Notes
+## 11. Future Expansion Notes
 
 **Planned Mechanics (Post-MVP):**
 
