@@ -432,7 +432,7 @@ Players unlock specialized equipment by performing role-specific actions:
 - Mentors earn bonus XP for helping new players succeed
 - Automatic squad matching for new players with mentors
 
-**Note:** Full tutorial and learning systems detailed in `/docs/gameplay/feedback-responses-and-improvements.md`
+**Note:** Full tutorial and learning systems detailed in [Feedback and Improvements]({{ site.baseurl }}/docs/gameplay/feedback-responses-and-improvements)
 
 ---
 
