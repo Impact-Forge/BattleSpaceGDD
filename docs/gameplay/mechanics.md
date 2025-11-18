@@ -404,7 +404,7 @@ Players unlock specialized equipment by performing role-specific actions:
 - 25 vehicle kills: Javelin (top-attack capability)
 - 50 vehicle kills: TOW launcher (wire-guided)
 
-**Note:** Full progression details in `/docs/gameplay/feedback-responses-and-improvements.md`
+**Note:** Full progression details in [Feedback and Improvements]({{ site.baseurl }}/docs/gameplay/feedback-responses-and-improvements)
 
 ### 8.3 Tutorial and Onboarding
 
